@@ -39,12 +39,19 @@ def run_seleniun_and_get_page_source():
 
     selenium_web_content = BeautifulSoup(driver.page_source, 'lxml')
     get_company_list_block = selenium_web_content.find_all('a', class_='styles-module__company___1UVnl no-hovercard')
-    
-    y_company_page_urls = [link['href'] for link in get_company_list_block]
-    lenght = len(y_company_page_urls)
+    full_location_block = selenium_web_content.find_all('span', class_='styles-module__coLocation___yhKam')
+
+    url_and_location = []
+    for i in range(len(get_company_list_block)):
+        location = full_location_block[i].text.strip() 
+        company_url = get_company_list_block[i]['href']
+        info = [company_url, location]
+        url_and_location.append(info)
+
+    lenght = len(full_location_block)
 
     driver.close()
-    return y_company_page_urls, lenght
+    return url_and_location, lenght
 
 
 def get_company_info(soup):
@@ -124,13 +131,14 @@ def get_founders_info(soup):
     return founders_info
 
 
-def scrape_info(link_href):
+def scrape_info(link_and_location):
     main_url = 'https://www.ycombinator.com'
-    url = main_url + link_href
+    url = main_url + link_and_location[0]
     source = requests.get(url).text
     soup = BeautifulSoup(source, 'lxml')
 
     company_all_info = get_company_info(soup)
+    company_all_info['full_location'] = link_and_location[1]
     try:
         founder_info = get_founders_info(soup)
     except:
@@ -146,7 +154,7 @@ def scrape_info(link_href):
 def save_to_csv(scraped_info, savepath):
        df = pd.DataFrame(scraped_info)
        df = df[['company_name', 'link', 'short_description', 'tags',
-              'company_socials', 'founded', 'team_size', 'location',
+              'company_socials', 'founded', 'team_size', 'full_location', 'location',
               'active_founders', 'about_founders', 'description']]
               
        df.to_csv(savepath, index=False)
@@ -157,11 +165,11 @@ if __name__ == "__main__":
     main_url = 'https://www.ycombinator.com'
 
     start = dt.now()
-    y_company_page_urls, lenght = run_seleniun_and_get_page_source()
+    url_and_location, lenght = run_seleniun_and_get_page_source()
 
     m_companies = []
     with cf.ThreadPoolExecutor() as exc:
-        results = exc.map(scrape_info, y_company_page_urls)
+        results = exc.map(scrape_info, url_and_location)
 
         for result in results:
             m_companies.append(result)
