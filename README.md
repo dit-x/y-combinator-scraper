@@ -1,15 +1,29 @@
 # `#startingDataEngineeringFromScratch`
 
-# Project Topic: Webscrape Companies Information Listed on Y-combinator and Perform analysis
+# Project Topic: Webscrape Companies-Information Listed on Y-combinator and Perform analysis
 <br>
 </br>
 
-# Project Objective - (Last updated: August, 2022)
-The goal of the project is to demonstrate an end-to-end data engineering skill by performing ETL task and analysis on y-combinator listed company (https://ycombinator.com/companies). The core concept of the project is to help begineer on how to optimize data pipeline to run faster.
+# Project Objective - (Last updated: August 2022)
+The project aims to demonstrate an end-to-end data engineering skill by performing ETL tasks and analyses on the y-combinator listed companies (https://ycombinator.com/companies). The project's core concept is to help beginners optimize data pipelines.
 In the project doc, three different approaches were used
-- An approach the made the code ran for 3 hours
-- An approach that ran for 12 mins
-- An approach that made the code run for 1.06 mins
+- An approach that made the extraction process run for `3 hours`
+- An approach that ran for `12 mins`
+- An approach that ran for 	1.06 mins	
+
+# Analysis Result
+From the analyzed data, here are the insights
+- The top 5 countries under y-combinator are 
+    - USA
+    - India
+    - Canada
+    - UK
+    - Nigeria
+- Companies from `USA` take **65.3%** of y-combinator start-up
+- `Nigeria` is the only Africa country that has more than 10 start-ups under y-combinator
+- Company with a single founder under YC has the highest percentage, **`42.4%`**, while **`38.6%`** and **`13.9%`** are for 2 and 3 founders respecively. The other percentage is shared among 4 and 5 founders.
+- `Airbnb` is the largest company under YC in terms of employees
+- The total number of people YC has empowered is **`90373`**
 
 </br>
 
@@ -23,7 +37,7 @@ The image below indicates the information to be scraped for analysis.
 1. `founded` (company's info)
 1. `team_size` (company's info)
 1. `location` (company's info)
-1. `active_founders` (Founder's decription)
+1. `active_founders` (Founder's description)
 1. `about_founder` (Founder's info)
 1. `description` (Company's description)
 
@@ -57,7 +71,23 @@ If the code breaks, the closest fix is to verify if the HTML tag in the code is 
 - S3
 
 # Data Analysis
-The make sense form the data and to communicate the insight from the data, some chart were created. The chart communicate the follow.
+Some charts were created to make sense of the data and communicate the insight from the data. 
 
 ### start-up by country
-![country](https://user-images.githubusercontent.com/55639062/182841449-1c1aefd8-91f8-471f-b5e6-11ab3873dc77.png)
+Visualize the country distribution by start-up
+![image](https://user-images.githubusercontent.com/55639062/182843337-8e872867-c9e5-442d-ab75-695cb859f68a.png)
+
+
+### Start-up by year
+Distribution of start-up by year
+![image](https://user-images.githubusercontent.com/55639062/182843651-d5d9da36-bd2a-466b-af1c-a9bbcb759e7a.png)
+
+### Start-up by founder
+![image](https://user-images.githubusercontent.com/55639062/182843935-8cab8514-fb2d-4822-bc81-5f43e92bd56b.png)
+
+### Team size per company
+![image](https://user-images.githubusercontent.com/55639062/182844115-0ad55a2b-d3a0-4801-91c5-2af279e8026e.png)
+
+
+### Total Empowered by Y-Combinator
+90373 people
