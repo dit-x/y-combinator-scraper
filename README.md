@@ -11,7 +11,10 @@ In the project doc, three different approaches were used
 - An approach that ran for `12 mins`
 - An approach that ran for 	1.06 mins	
 
+
 # Analysis Result
+[click here for full analysis details](EDA.ipynb)
+
 From the analyzed data, here are the insights
 - The top 5 countries under y-combinator are 
     - USA
