@@ -4,8 +4,12 @@
 <br>
 </br>
 
-# Project Objective - (Last updated: March, 2022)
-The goal of the project is to demonstrate an end-to-end data engineering skill by performing ETL task and analysis on y-combinator listed company (https://ycombinator.com/companies).
+# Project Objective - (Last updated: August, 2022)
+The goal of the project is to demonstrate an end-to-end data engineering skill by performing ETL task and analysis on y-combinator listed company (https://ycombinator.com/companies). The core concept of the project is to help begineer on how to optimize data pipeline to run faster.
+In the project doc, three different approaches were used
+- An approach the made the code ran for 3 hours
+- An approach that ran for 12 mins
+- An approach that made the code run for 1.06 mins
 
 </br>
 
@@ -50,5 +54,10 @@ If the code breaks, the closest fix is to verify if the HTML tag in the code is 
 - Pandas - (for data cleaning)
 - Matplotlib
 - Seaborn
-- GitLab
 - S3
+
+# Data Analysis
+The make sense form the data and to communicate the insight from the data, some chart were created. The chart communicate the follow.
+
+### start-up by country
+![country](https://user-images.githubusercontent.com/55639062/182841449-1c1aefd8-91f8-471f-b5e6-11ab3873dc77.png)
