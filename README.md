@@ -9,8 +9,13 @@ The project aims to demonstrate an end-to-end data engineering skill by performi
 In the project doc, three different approaches were used
 - An approach that made the extraction process run for `3 hours`
 - An approach that ran for `12 mins`
-- An approach that ran for 	1.06 mins	
+- An approach that ran for 	`1.06 mins`
 
+# Pipeline Architecture
+This is the architecture diagram for the simple end-to-end ETL pipeline.
+![Data-model-ETL-YC Scraper](https://user-images.githubusercontent.com/55639062/182989677-1215c562-2708-4470-b0c2-29470910e34a.png)
+
+</br>
 
 # Analysis Result
 [click here for full analysis details](EDA.ipynb)
