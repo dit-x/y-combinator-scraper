@@ -90,9 +90,9 @@ def get_founders_info(soup):
         founders = soup.find('div', class_='space-y-5')
         founders_info['active_founders'] = [name.div.text for name in founders.find_all('div', class_='leading-snug')]
 
-        about_founder = {}
         all_about = []
         for what in founders.find_all('div', class_='flex flex-row gap-3 items-start flex-col md:flex-row'):
+            about_founder = {}
             name = what.h3.text
             split = name.split(', ')
 
