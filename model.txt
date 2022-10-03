@@ -1,0 +1,56 @@
+Table company {
+    id int [pk] 
+    company_name varchar
+    link varchar
+    short_description varchar
+    founded int
+    team_size int
+    location varchar
+    country varchar
+    no_founders int
+    no_company_socials int
+    no_tags int
+    description longtext
+}
+
+
+Table founder{
+    id int [pk] 
+    name varchar
+    role varchar 
+    company_id int [ref:  > company.id]
+
+}
+
+Table social {
+    id int [pk]
+    social varchar
+}
+
+Table tag {
+    id int [pk]
+    tag varchar
+}
+
+Table founder_social_to_social {
+    id int [pk]
+    social_media_id int [ref:  > social.id]
+    founder_id int [ref:  > founder.id]
+}
+
+
+Table company_social_to_social {
+    id int [pk]
+    social_media_id int [ref:  > social.id]
+    company_id int [ref:  > company.id]
+}
+
+Table company_to_tag {
+    id int [pk] 
+    company_id int [ref:  > company.id]
+    tag_id int [ref:  > tag.id]
+}
+
+
+
+
