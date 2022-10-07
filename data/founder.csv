@@ -1,0 +1,2048 @@
+id,name,role,company_id
+1,"Nathan Blecharczyk, CTO",CTO,1
+2,"Brian Chesky, CEO",CEO,1
+3,"Joe Gebbia, CPO",CPO,1
+4,Curtis Liu,CTO,2
+5,Spenser Skates,CEO,2
+6,Andy Fang,Founder,3
+7,Stanley Tang,Founder,3
+8,Tony Xu,CEO,3
+9,Brian Armstrong,CEO,4
+10,Arash Ferdowsi,,5
+11,"Drew Houston, CEO",CEO,5
+12,Brandon Moak,CTO,6
+13,Alex Rodrigues,CEO,6
+14,Barry Canton,Founder,7
+15,Austin Che,Founder,7
+16,Jason Kelly,Founder,7
+17,Tom Knight,Founder,7
+18,Reshma Shetty,Founder,7
+19,Debkishore Mitra,Founder,8
+20,Matt Bell,Founder,9
+21,David Gausebeck,CTO,9
+22,Baskar Puvanathasan,Software Engineer / Product Manager,11
+23,Alex Solomon,CTO,11
+24,Chad Rigetti,CEO,13
+25,Clint Berry,CTO,14
+26,Brandon Rodman,CEO,14
+27,Jared Rodman,COO,14
+28,Sid Sijbrandij,CEO,15
+29,Dmitriy Zaporozhets,CTO,15
+30,John Collison,President,16
+31,Patrick Collison,Content Strategist,16
+32,"Brandon Leonardo, Grocery Hacker",Grocery Hacker,17
+33,"Apoorva Mehta, CEO",CEO,17
+34,Max Mullen,,17
+35,"Kyle Vogt, CEO",CEO,18
+36,"Daniel Kan, COO",COO,18
+37,"Devin Finzer, CEO",CEO,19
+38,Alex Atallah,,19
+39,Marcelo Cortes,CTO,20
+40,Daniele Perito,Founder,20
+41,Max Rhodes,CEO,20
+42,Henrique Dubugras,CEO,21
+43,Pedro Franceschi,Founder,21
+44,Alex Bouaziz,CEO,22
+45,Shuo Wang,Founder,22
+46,Parker Conrad,CEO,23
+47,Prasanna S,CTO,23
+48,Steve Huffman,CEO,24
+49,"Edward Kim, ; Empowering Gusto's Engineering Team",; Empowering Gusto's Engineering Team,25
+50,"Tomer London, ; Empowering Gusto's Product and Design Teams",; Empowering Gusto's Product and Design Teams,25
+51,"Josh Reeves, CEO",CEO,25
+52,Ryan Petersen,CEO,26
+53,Shashank Kumar,Founder,27
+54,Harshil Mathur,CEO,27
+55,Alexandr Wang,CEO,28
+56,Sajith Wickramasekara,CEO,29
+57,Taylor Brown,COO,30
+58,George Fraser,Founder,30
+59,Simon Borrero,CEO,31
+60,Sebastian Mejia,Founder,31
+61,Felipe Villamarin,Founder,31
+62,"Daniel Yanisse, CEO",CEO,32
+63,"Jonathan Perichon, CTO",CTO,32
+64,Wade Foster,,33
+65,"Mike Knoop, President",President,33
+66,"Bryan Helmig, CTO, , engineer",engineer,33
+67,Vidit Aatrey,CEO,34
+68,Sanjeev Barnwal,CTO,34
+69,"Jonas Templestein, CTO",CTO,35
+70,Tim Ellis,CEO,36
+71,Logan Head,Founder,37
+72,Grant LaFontaine,CEO,37
+73,Bryant Chou,CTO,38
+74,Sergie Magdalin,CPO,38
+75,Vlad Magdalin,Founder,38
+76,Bob Violier,CTO,39
+77,Robert Vis,CEO,39
+78,Joey van Ommen,Head of Product & Partner,39
+79,"Matt Feury, CTO",CTO,40
+80,"Garrett Langley, CEO",CEO,40
+81,"Grant Goodale, CTO",CTO,41
+82,"Daniel Lewis, CEO",CEO,41
+83,Jeff Lowe,Founder,42
+84,Matthew McDonald,Founder,42
+85,Jabbok Schlacks,Founder,42
+86,William Schlacks,President,42
+87,Brad Siegler,Founder,42
+88,Eddy Lu,Founder,43
+89,Daishin Sugano,CPO,43
+90,David Hsu,CEO,44
+91,Mike Xu,"CEO, , President",45
+92,Calvin French-Owen,,46
+93,Ilya Volodarsky,,46
+94,Jason Boehmig,CEO,47
+95,Cai GoGwilt,CTO,47
+96,ACA Adekoya,Founder,48
+97,Olugbenga GB Agboola,Founder,48
+98,Dennis Steele,,49
+99,"Eric Rea, CEO",CEO,49
+100,Bo Chen,CTO,50
+101,Juan Gonzalez,Principal Software Engineer,50
+102,Moses Lo,CEO,50
+103,Ishan Bansal,Founder,51
+104,Harsh Jain,COO,51
+105,Lalit Keshre,CEO,51
+106,Neeraj Singh,Founder,51
+107,Nicholas Grandy,Founder,52
+108,Amir Nathoo,Founder,52
+109,Jack Altman,CEO,53
+110,David Kirtley,CEO,54
+111,Chris Pihl,CTO,54
+112,"Matt Robinson, CEO",CEO,55
+113,"Hiroki Takeuchi, CEO",CEO,55
+114,"Nicolas Dessaigne, CEO",CEO,56
+115,"Julien Lemoine, CTO",CTO,56
+116,Spike Lipkin,CEO,57
+117,Gordon Wintrob,CTO,57
+118,Gaurab Chakrabarti,Founder,58
+119,Sean Hunt,CTO,58
+120,Andrew Barnes,CEO,59
+121,Chris Eigeland,Founder,59
+122,Chris Hood,CTO,59
+123,Vu Tran,Founder,59
+124,Solomon Hykes,CEO,60
+125,Dileep Thazhmon,,61
+126,Matt Marcus,,62
+127,Sam Aarons,,62
+128,"Dimitri Dadiomov, CEO",CEO,62
+129,Alexander Kates,CEO,63
+130,Mitchell Kates,Tech,63
+131,Divey Gulati,Founder,64
+132,Dhruv Saxena,Founder,64
+133,Will Canine,CPO,65
+134,Chiu Chau,Founder,65
+135,"Jason Tan, Executive Chairman",Executive Chairman,66
+136,"Drew Durbin, CEO",CEO,67
+137,"Lincoln Quirk, CPO",CPO,67
+138,Mathilde Colin,CEO,68
+139,Laurent Perrin,CTO,68
+140,Christina Cacioppo,CEO,69
+141,Umar Afridi,Founder,70
+142,Sid Viswanathan,Founder,70
+143,Matt Schulman,,71
+144,"Rob McGinnis, CEO",CEO,72
+145,Adam Brown,,73
+146,"Jon Dahl, CEO",CEO,73
+147,"Steve Heffernan, Head of Product",Head of Product,73
+148,Matthew McClure,,73
+149,"Chris Hull, Vice President of Customer Success",Vice President of Customer Success,74
+150,"JP Morgan, CTO",CTO,74
+151,Dave Rogenmoser,,74
+152,Deepika Bodapati,Founder,75
+153,Tanay Tandon,Founder,75
+154,Aaron King,CEO,76
+155,Jarrett Streebin,Title,77
+156,Matt DeBergalis,Vice President R&D,78
+157,Nick Martin,CTO,78
+158,Geoff Schmidt,CEO,78
+159,Mukul Dhankhar,Founder,79
+160,Abhinai Srivastava,CEO,79
+161,Talha Sattar,CEO,80
+162,Janer Gorohhov,COO,81
+163,Kaarel Kotkas,CEO,81
+164,John Lafleur,,82
+165,Michel Tricot,,82
+166,"Andrew Parker, CEO",CEO,83
+167,"Alfredo Vaamonde, COO",COO,83
+168,Roey Eliyahu,CEO,84
+169,"John Gedmark, CEO",CEO,85
+170,"Ryan McLinko, CTO",CTO,85
+171,"Wei Deng, CEO",CEO,86
+172,Jon Lerner,Founder,87
+173,Chandan Lodha,Founder,87
+174,"Yahya Mokhtarzada, CEO",CEO,88
+175,Haroon Mokhtarzada,,88
+176,"Idris Mokhtarzada, CTO",CTO,88
+177,Mark Schopmeyer,CEO,89
+178,Conway Teng,Founder,89
+179,Hubert Wong,CTO,89
+180,Sam Chaudhary,CEO,90
+181,Liam Don,CTO,90
+182,"Steven Bartel, CEO",CEO,91
+183,Nick Bushak,,91
+184,Lu Cheng,,92
+185,Rujul Zaparde,,92
+186,"Alyson Watson, CEO",CEO,93
+187,"Alexander Klizhentas, CTO",CTO,94
+188,"Taylor Wakefield, COO",COO,94
+189,"Ev Kontsevoy, CEO",CEO,94
+190,Blake Scholl,CEO,95
+191,Clayton Gardner,,96
+192,Joe Percoco,,96
+193,"Max Bernardy, CTO",CTO,96
+194,"Philip Camilleri, CTO",CTO,97
+195,"Michael Carvin, CEO",CEO,97
+196,"Oleg Rogynskyy, CEO",CEO,98
+197,"John S. Kim, CEO",CEO,99
+198,"Brandon Jeon, Head of Trust and Safety",Head of Trust and Safety,99
+199,"Harry Kim, CTO",CTO,99
+200,Ryan Neu,Founder,101
+201,Zahir Dossa,CEO,103
+202,Hien Kaplan,Chief Scientist,103
+203,Joshua Maciejewski,COO,103
+204,Anderson Sumarli,,104
+205,Yada Piyajomkwan,,104
+206,Jordan Fisher,CEO,105
+207,John Novak,Head of Hardware Engineering,105
+208,Michael Suswal,COO,105
+209,David Valdman,Founder,105
+210,Oguzhan Atay,Founder,106
+211,David Tsao,CTO,106
+212,Emmett Shear,,107
+213,"Ravi Parikh, COO",COO,108
+214,"Matin Movassate, CEO",CEO,108
+215,Fabian Gomez Gutierrez,Founder,109
+216,Roy Chung,,110
+217,Ray Li,,110
+218,"Tim Zheng, CEO",CEO,110
+219,"Ralph Gootee, CTO",CTO,111
+220,Ryan Sutton-Gee,,111
+221,"Tracy Young, CEO",CEO,111
+222,Aadit Palicha,Founder,112
+223,Kaivalya Vohra,Founder,112
+224,Maximiliano Casal,,113
+225,"Alfonso de los Rios Villarreal, CEO",CEO,113
+226,Keith Ryu,CEO,114
+227,Haya Abdalla,Founder,115
+228,Amjad Masad,Founder,115
+229,Harshita Arora,,116
+230,Vignan Velivela,,116
+231,Swapnil Jain,CEO,117
+232,Sharath Keshava Narayana,Founder,117
+233,Akash Singh,Founder,117
+234,Kyle Mack,CEO,118
+235,Kurt Ruppel,Founder,118
+236,Songe LaRon,CEO,119
+237,Dave Salvant,President,119
+238,Ariel Katz,Founder,120
+239,Ian Sax,Founder,120
+240,Luana Lopes Lara,Founder,121
+241,Tarek Mansour,Founder,121
+242,"Urska Srsen, CCO",CCO,122
+243,Sandro Mur,,122
+244,Joshua Augustin,CTO,123
+245,Moawia Eldeeb,CEO,123
+246,Kumail Jaffer,Founder,124
+247,Phillip Wang,Founder,124
+248,Paul Copplestone,,125
+249,Anthony Wilson,,125
+250,"Xan Tanner, President",President,126
+251,"Aaron Feuer, CEO",CEO,126
+252,"Joris Poort, CEO",CEO,127
+253,"Adam McKenzie, CTO",CTO,127
+254,Joe Ariel,CEO,128
+255,Joel Gillman,Vice President of Engineering,128
+256,Trevor Stow,CTO,128
+257,Vanessa Torrivilla,CPO,128
+258,Budi Handoko,Founder,129
+259,Phil Opamuratawongse,Founder,129
+260,Alexis Patjane,,130
+261,"Chris Best, CEO",CEO,131
+262,"Hamish McKenzie, COO",COO,131
+263,Jairaj Sethi,,131
+264,Colin Turner,,132
+265,Alex Beller,,132
+266,"Adam Turner, CEO",CEO,132
+267,Dhanesh Kumar,Founder,133
+268,Ravish Naresh,CEO,133
+269,Ashish Sonone,Founder,133
+270,Nikhil Mathew,Founder,134
+271,Jaleh Rezaei,Founder,134
+272,William Patterson,CEO,135
+273,Sofia Pessanha,COO,135
+274,Esteban Castaño,Founder,136
+275,Rahul Raina,Founder,136
+276,Nick Raushenbush,,137
+277,"Finbarr Taylor, CEO",CEO,137
+278,Sumir Meghani,CEO,138
+279,Jefriyanto,Founder,139
+280,Hendra Kwik,Product Manager,139
+281,Ricky Winata,Founder,139
+282,"Sam Hodges, CEO",CEO,140
+283,"Nate Smith, CTO",CTO,141
+284,Adam Hansmann,COO,142
+285,Alex Mather,CEO,142
+286,Art Agrawal,CEO,143
+287,Musawir Shah,CTO,143
+288,Lina Zhang,Vice President Operations,143
+289,Zach Sims,CEO,144
+290,Yoshi Yokokawa,,145
+291,"Hitoshi Harada, CTO",CTO,145
+292,Phaedra Ellis-Lamkins,Founder,146
+293,Diana Frappier,Founder,146
+294,Troy Demmer,COO,147
+295,Jake Loosararian,CEO,147
+296,"Nikita Shamgunov, CTO",CTO,148
+297,Joey Grassia,CEO,149
+298,Alvin Salehi,CEO,149
+299,Mohandass Kalaichelvan,,150
+300,Isaq Ahmed Mukthar,,150
+301,Srivatsan Chari,Head of Product,151
+302,Archit Gupta,CEO,151
+303,Ankit Solanki,CTO,151
+304,Alexander Meek,,152
+305,Paul Huelskamp,,152
+306,"Edwin Olson, CEO",CEO,153
+307,"Viktor Benei, CTO",CTO,154
+308,Daniel Balla,,154
+309,"Barnabas Birmacher, CEO",CEO,154
+310,Sam Browne,Founder,155
+311,Alex Rose,Founder,155
+312,Kashish Gupta,,156
+313,Tejas Manohar,,156
+314,Joshua Curl,,156
+315,Drew Durbin,,157
+316,Lincoln Quirk,,157
+317,"Aarjav Trivedi, CEO",CEO,158
+318,Fredrik Thomassen,CEO,159
+319,"Dan Carroll, CPO",CPO,160
+320,"Tyler Bosmeny, CEO",CEO,160
+321,"Rafael Garcia, CTO",CTO,160
+322,Trip Adler,CEO,161
+323,Tikhon Bernstam,Founder,161
+324,"Abraham Heifets, CEO",CEO,162
+325,"Izhar Wallach, CTO",CTO,162
+326,James Burkhardt,Founder,163
+327,Tim Griffin,Founder,163
+328,Troy Astorino,CTO,164
+329,Noga Leviner,CEO,164
+330,Daryna Kulya,Founder,165
+331,Mahyar Raissi,CEO,165
+332,"Patrick Chandler, CMO",CMO,166
+333,"Khalil Zahar, CEO",CEO,166
+334,"Alexandre Marcotte, CTO",CTO,166
+335,"Omri Mor, CEO",CEO,167
+336,Tom Harel,,167
+337,Jamie Marshall,,168
+338,"Kevin Tan, CEO",CEO,168
+339,Muneeb Ali,,169
+340,Ryan Shea,,169
+341,Joao Costa,Founder,170
+342,ADHEMAR MILANI NETO,Founder,170
+343,Magi Richani,CEO,171
+344,"Todd Persen, CTO",CTO,172
+345,"Paul Dix, CTO",CTO,172
+346,Leore Avidar,CEO,173
+347,Harry Zhang,Founder,173
+348,Ruben A. Harris,,174
+349,Artur Meyster,,174
+350,Timur Meyster,,174
+351,"Omar Gabr, CEO",CEO,175
+352,"Moataz Soliman, CEO",CEO,175
+353,Kelby Green,Founder,176
+354,Dan Ryan,CEO,176
+355,Joe Root,Founder,177
+356,Tim Spratt,Founder,177
+357,Massimo Andreasi Bassi,CTO,178
+358,Matteo Franceschetti,CEO,178
+359,Alexandra Zatarain,CMO,178
+360,Lee Liu,Founder,179
+361,Chris Nguyen,Founder,179
+362,Alex Cyriac,CEO,180
+363,Shobin Uralil,COO,180
+364,Diego Saez Gil,,181
+365,Tomas Aftalion,,181
+366,Vivek Ravisankar,CEO,182
+367,Harishankaran,Founder,182
+368,"Katherine Homuth, CEO",CEO,183
+369,Bar Geron,,184
+370,Yoni Shuster,,184
+371,Julien Brissonneau,CSO,185
+372,Aymeric Rabot,CTO,185
+373,Samir Shah,CEO,185
+374,Ahmed Beshry,Founder,186
+375,Lindon Gao,CEO,186
+376,Yilin Huang,Founder,186
+377,Michael Bach,Founder,187
+378,Vishal Joshi,CEO,187
+379,Kaiwalya Kher,CTO,187
+380,"Andrew Peek, CEO",CEO,188
+381,Tom Bates,Founder,189
+382,Steve Domin,Founder,189
+383,Ram Jayaraman,CTO,190
+384,Bhavuk Kaul,CEO,190
+385,"Keegan Walden, COO",COO,191
+386,"Cameron Yarbrough, CEO",CEO,191
+387,Ian Tien,CEO,192
+388,Rajat Suri,CEO,193
+389,Pushkar Mukewar,CEO,194
+390,Brandon Alexander,CEO,195
+391,Jonathan Binney,CTO,195
+392,Miguel Carranza,,196
+393,Jacob Eiting,,196
+394,Gabriel Leydon,CEO,197
+395,Halbert Nakagawa,CTO,197
+396,Mike Sherrill,Founder,197
+397,Michael Rendy Haryadi Tanuwidjaja,Founder,198
+398,Steven Wongsoredjo,Founder,198
+399,"Simon Ratner, CTO",CTO,199
+400,"Denis Mars, CEO",CEO,199
+401,Misha Esipov,CEO,200
+402,Nicky Goulimis,COO,200
+403,Christian Van Der Henst,,201
+404,"Freddy Vega 💚, CEO",CEO,201
+405,Will Kim,Founder,202
+406,Eric Wei,Founder,202
+407,Max Kolysh,,203
+408,Anvisha Pai,,203
+409,George Carollo,,203
+410,"Stephen Kuhl, CEO",CEO,204
+411,Kabeer Chopra,,204
+412,Ivana Djuretic,Founder,205
+413,Andy Yeung,Founder,205
+414,Gaurav Kumar,Founder,206
+415,Harsh Pokharna,Founder,206
+416,Aditya Prasad,Founder,206
+417,"Ryan Chan, CEO",CEO,207
+418,Pete Koomen,,208
+419,"Dan Siroker, CEO",CEO,208
+420,Norman Müller,Founder,209
+421,Rene Serrano,Founder,209
+422,Mattan Griffel,,210
+423,Zack Gray,,210
+424,"Richard Aberman, CPO",CPO,211
+425,"Bill Clerico, CEO",CEO,211
+426,Jin Stedge,Founder,212
+427,Sanjaya Wijeratne,Founder,212
+428,Nate Fox,,213
+429,"Nate Maslak, CEO",CEO,213
+430,Patrick Mrozowski,,214
+431,Kenan Pulak,,214
+432,Sid Parihar,,214
+433,"Scott Stephenson, CEO",CEO,215
+434,Matt Ball,CTO,216
+435,Will Patrick,CEO,216
+436,"David Rabie, CEO",CEO,217
+437,"Bryan Wilcox, CTO",CTO,217
+438,"David Rusenko, CEO",CEO,218
+439,"Chris Fanini, CTO",CTO,218
+440,"Dan Veltri, CPO",CPO,218
+441,"Pierre Betouin, CEO",CEO,219
+442,"Jean-Baptiste Aviat, CTO",CTO,219
+443,Alex Polvi,CEO,220
+444,"Austen Allred, CEO",CEO,221
+445,Roger Kirkness,,222
+446,Chris Grouchy,,222
+447,Auston Bunsen,,223
+448,Dmitry Shklovsky,,223
+449,Manuel Kreutz,,223
+450,Alexander Nabutovsky,,223
+451,Rafael Stark,Founder,224
+452,Mostafa Amin,Founder,225
+453,Muhammad Habib,Founder,225
+454,Abdallah Nofal,Founder,225
+455,Orion Henry,Founder,226
+456,James Lindenbaum,Founder,226
+457,Adam Wiggins,CTO,226
+458,Igino Cafiero,CEO,227
+459,Aubrey Donnellan,Founder,227
+460,Gregory Rocco,,228
+461,Wayne Chang,,228
+462,"Deepak Chhugani, CEO",CEO,229
+463,Yin Wu,,230
+464,Kevin Law,Founder,231
+465,Sameer Shariff,Founder,231
+466,Alice Zhang,CEO,232
+467,"Yusuf Sherwani, CEO",CEO,233
+468,Maroof Ahmed,,233
+469,"Sarim Siddiqui, Chief Medical Officer",Chief Medical Officer,233
+470,Ian Christopher,Founder,234
+471,Mudit Garg,CEO,234
+472,Brent Newhouse,Founder,234
+473,"Matthew Mayaki, Senior Vice President Product",Senior Vice President Product,235
+474,"Femi Kuti, CEO",CEO,235
+475,"Opeyemi Olumekun, COO",COO,235
+476,"Koby Jacob Soto, CTO",CTO,236
+477,"Amiad Soto, CEO",CEO,236
+478,"Diego Rey, CSO",CSO,237
+479,Jason Springs,,237
+480,Leonardo Teixeira,,237
+481,Blake Meulmester,COO,238
+482,Charlie Warren,CEO,238
+483,Idan Hershko,Founder,239
+484,Nir Smadar,CTO,239
+485,Dekel Valtzer,CEO,239
+486,Neal O'Mara,CTO,240
+487,Joseph Walla,CEO,240
+488,Giovanni Casinelli,,241
+489,"Andrea Baronchelli, CEO",CEO,241
+490,Eric Futoran,,242
+491,Fredric Newberg,,242
+492,"DROdio - Daniel R. Odio, Chairman & Founding CEO",Chairman & Founding CEO,243
+493,"Ben Mappen, CPO",CPO,243
+494,"Isaac Mosquera, CTO",CTO,243
+495,TULIO JIMENEZ,Founder,244
+496,MANUELA SANCHEZ,Founder,244
+497,Camilo Sanchez,Founder,244
+498,Aziz Alghunaim,,245
+499,Mahmoud Ghulman,,245
+500,Kwindla Hultman Kramer,Founder,246
+501,Naeem Ahmed,,247
+502,Vasil Damyanov,,247
+503,John Thomas,,247
+504,"Ted Blosser, Head of Growth",Head of Growth,249
+505,"Arsh Mand, COO",COO,249
+506,Tom Lemberg,Founder,250
+507,Vikesh Khanna,Founder,251
+508,Shikhar Shrestha,CEO,251
+509,Joe Doliner,CEO,252
+510,Joey Zwicker,Founder,252
+511,Ashish Dubey,,253
+512,Dheeraj Jain,,253
+513,Aditya Kandoi,,253
+514,Michael Kong,CTO,254
+515,Kestrel Linder,CEO,254
+516,Chinmay Chauhan,,255
+517,Abhinay Peddisetty,,255
+518,"Vasco Pedro, CEO",CEO,256
+519,"João Graça, CTO",CTO,256
+520,"Bruno Prezado Silva, Lead Designer",Lead Designer,256
+521,"Hugo Silva, Developer",Developer,256
+522,Puneet Mehta,CEO,257
+523,Kunaal Naik,CTO,258
+524,Nisarg Patel,CPO,258
+525,Manav Sevak,CEO,258
+526,Sam Alba,Founder,259
+527,Solomon Hykes,Founder,259
+528,Andrea Luzzardi,Founder,259
+529,Stephen Grabowski,Founder,260
+530,Joe Sarre,Founder,260
+531,"Greg Schvey, CEO",CEO,261
+532,"Jeffrey Schvey, CTO",CTO,261
+533,"Jay Reno, CEO",CEO,262
+534,Jordan Gonen,Founder,263
+535,Jacob Schein,Founder,263
+536,Dan Lin-Arlow,Founder,264
+537,Sebastian Palluk,Founder,264
+538,Reeju Datta,Founder,265
+539,Akash Sinha,Founder,265
+540,"Christian Timmerer, CIO",CIO,266
+541,"Stefan Lederer, CEO",CEO,266
+542,"Christopher Mueller, CTO",CTO,266
+543,Joe Du Bey,CEO,267
+544,Guy Morita,Founder,267
+545,Kyle Wilkinson,CTO,267
+546,"Pedro Pineda, CEO",CEO,268
+547,Agustín Feuerhake,,268
+548,Omar Larré,,268
+549,"Andres Marinkovic, CTO",CTO,268
+550,"Conor Murray, CEO",CEO,269
+551,"Phillip Wei, CTO",CTO,269
+552,Carly Leahy,Founder,270
+553,Afton Vechery,CEO,270
+554,John Backus,CTO,271
+555,Alain Meier,CEO,271
+556,Christopher Morton,President and COO,271
+557,Dylan Fox,Founder,272
+558,Michael Dwan,Founder,273
+559,Jerome Gravel-Niquet,Founder,273
+560,Kurt Mackey,Founder,273
+561,Thomas Ptacek,Founder,273
+562,"Sondre Rasch, CEO",CEO,274
+563,"Sarah Sandnes, CTO",CTO,274
+564,"Hans Nyvold Kjellby, COO",COO,274
+565,Greg Kidd,Founder,275
+566,Meg Nakamura,Founder,275
+567,Lauren Frazier,Founder,276
+568,Andy Tsen,Founder,276
+569,Eric Yu,Founder,277
+570,Peter Zhou,Founder,277
+571,Lucia Huang,,278
+572,Jimmy Qian,,278
+573,Aylon Steinhart,,279
+574,Thomas Elliott Bowman,,279
+575,Nicolas Knockaert,,280
+576,Benjamín Labra,,280
+577,Shola Akinlade,CEO,281
+578,Ezra Olubi,CTO,281
+579,Alexis Rovner,Founder,282
+580,Kevin Bai,,283
+581,Victor Cardenas,,283
+582,Nouman Ahmad,CEO,284
+583,Ian Burgess,Founder,284
+584,"Daniel Kivatinos, COO",COO,285
+585,"Michael Nusimow, CEO",CEO,285
+586,Tom Feldman,Founder,286
+587,Andy Lapsa,Founder,286
+588,Slava Solonitsyn,,287
+589,Dmitry Starodubtsev,,287
+590,Jeff Berens,Founder,288
+591,Ryan Johnson,Founder,288
+592,Hanna Marie Asmussen,,289
+593,Lisa Dahlke,,289
+594,Franzi Löw,,289
+595,Lluis Canadell,,290
+596,Man Hei Lou,,290
+597,DK (Do Kyung) Lee,,291
+598,Mark Lee,,291
+599,Paul Gross,,293
+600,Eric Harding,,293
+601,Christina Reynolds,,293
+602,Benji Encz,,294
+603,Abhik Pramanik,,294
+604,Abasi Ene-Obong,Founder,295
+605,Ogochukwu Francis Osifo,Founder,295
+606,Ife Oyedele II,Founder,296
+607,Obi Ozor,Founder,296
+608,Brian Gonzalez,Founder,297
+609,Matthew Lafferty,Founder,297
+610,Robin Kim,CEO,298
+611,Bede Jordan,CTO,299
+612,Stefan Kalb,CEO,299
+613,Noureddine Tayebi,Founder,300
+614,el mahdi Yettou,Founder,300
+615,Vicente Zavarce,,301
+616,Brian Vallelunga,,302
+617,Thomas Piccirello,,302
+618,"Nick Tommarello, CEO",CEO,303
+619,"Greg Belote, CTO",CTO,303
+620,"Ben Thompson, Chief Customer Officer",Chief Customer Officer,304
+621,"Travis Kimmel, CEO",CEO,304
+622,Abhijeet Dwivedi,Founder,305
+623,Laks Srini,CTO,305
+624,Hari Viswanathan,Founder,305
+625,"Matt Schiller, CEO",CEO,306
+626,"Riku Lindholm, COO",COO,307
+627,"Albert Nazander, CTO",CTO,307
+628,"Kristian Ranta, CEO",CEO,307
+629,Michael Klinker,,309
+630,Billy Thalheimer,,309
+631,Elizabeth Iorns,President & CEO; Chairman of the Board,310
+632,Dan Knox,Founder,310
+633,Oriol Tintore,Founder,311
+634,Pablo Viguera,Founder,311
+635,Ivan Cardenas,Founder,312
+636,Jasiel Cardenas,Founder,312
+637,Allan (Amnon) Fisch,,313
+638,CJ Isakow,,313
+639,Jonathan Asmis,,314
+640,Alex Lofton,,314
+641,Francis Plaza,,315
+642,Jaime Hing,,315
+643,"Max Child, CEO",CEO,316
+644,"James Wilsterman, CTO",CTO,316
+645,Brad Dwyer,,317
+646,Joseph Nelson,,317
+647,Wilson Daniel Martinez,Founder,318
+648,Felipe Otálora,Founder,318
+649,Sebastián Valencia,Founder,318
+650,James Hawkins,,319
+651,Tim Glaser,,319
+652,"Bo Lu, CEO",CEO,320
+653,Jon Xu,,320
+654,Khaled Kteily,,321
+655,Sarah Steinle,,321
+656,Christian Baroni,Founder,322
+657,Jin Chung,Founder,322
+658,Michael Demarais,Founder,322
+659,Juan Martin Altamirano,,323
+660,Emiliano Segura,,323
+661,Agustin Novillo Saravia,,323
+662,Chris Davlantes,Founder,324
+663,Oliver Edholm,,325
+664,Anton Osika,,325
+665,Pelumi Aboluwarin,CTO,326
+666,Yinka Adewale,CEO,326
+667,Sambhav Jain,,327
+668,Kush Taneja,,327
+669,George Melika,CTO,328
+670,Akbar Thobhani,Founder,328
+671,Sam Oshay,,329
+672,Jack Chen,,330
+673,Pei-fu Hsieh,,330
+674,Sunil Kumar,,330
+675,Amit Jangir,,330
+676,Bo Li,,330
+677,Michael Cantalino,COO,331
+678,Francois Chaubard,CEO,331
+679,"James Cundle, CTO",CTO,332
+680,"Tom Hadfield, CEO",CEO,332
+681,"Andrey Klen, Chief Design Officer",Chief Design Officer,333
+682,"Alex (Sasha) Neskin, CTO",CTO,333
+683,"Yaroslav Azhnyuk, CEO",CEO,333
+684,"Jim Xiao, President",President,334
+685,Jason Kraft,CTO,335
+686,Chris Upjohn,Founder,335
+687,Shadi Saberi,CTO,336
+688,Maryam Ziaei,|CEO,336
+689,Jonas Blanck,,337
+690,"Mathias Thulin, Executive Partner",Executive Partner,337
+691,Carl Carell,,337
+692,"Samir Smajic, CEO",CEO,337
+693,Ray Sturm,CEO,338
+694,Dmitrii Dumik,CEO,339
+695,Artem Ptashnik,Founder,339
+696,Andrew Yaroshevsky,CPO & COO,339
+697,Mark Ke,CEO,340
+698,Matthew Dukes,,341
+699,"Rachel Vodofsky, Operations",Operations,341
+700,Rohit Mittal,CEO,342
+701,Priyank Singh,Founder,342
+702,Ken Baylor,Founder,343
+703,"Jesper Theil Thomsen, CEO",CEO,344
+704,"Hjalte Emilio Wieth, CBO",CBO,344
+705,"Christoffer Nyvold, COO",COO,344
+706,Brandon Anderson,COO,345
+707,James Barrett,Head of Business Development,345
+708,Chris Stewart,CTO,345
+709,Matthew Sweeny,CEO,346
+710,"Dave Messina, COO",COO,347
+711,"Jon Armstrong, Chief Scientific Officer",Chief Scientific Officer,347
+712,"Jarret Glasscock, CEO",CEO,347
+713,Mattias Lepp,Founder,348
+714,Anna Santeramo,CEO,349
+715,Salvatore Savo,| COO,350
+716,Siping Wang,CTO,350
+717,Chris Glace,Founder,351
+718,Adam Steinberg,Founder,351
+719,Jigar Patel,COO,352
+720,Ritesh Patel,CEO,352
+721,Robyn Exton,CEO,353
+722,Travis Chase,Founder,354
+723,Dave Gandy,CEO,354
+724,William MacAskill,Founder,355
+725,Benjamin Todd,CEO,355
+726,Robert Wiblin,Founder,355
+727,Mike Allen,CEO,356
+728,Mark Godfrey,CTO,356
+729,"Martin Kessler, COO",COO,357
+730,"Alexandre Wayenberg, CEO",CEO,357
+731,Mariya Nurislamova,Founder,358
+732,Andrei Rebrov,CTO,358
+733,Rachel ten Brink,CMO,358
+734,Kartik Venkataraman,Founder,359
+735,sandeep srinivasa,Founder,359
+736,"Harrison Steed, Labor Management, Harvest Management, & Traceability",& Traceability,360
+737,Austin Steed,,360
+738,Nilmi Senaratna,,361
+739,Marc Lara,,362
+740,"Miguel Lara, CEO",CEO,362
+741,Merih Akar,Developer,363
+742,Ismail Ceylan,Software Developer,363
+743,Pelin Kenez,CEO,363
+744,Berk Çebi,Founder,363
+745,Waqas Ali,co-CEO,364
+746,Sidra Qasim,Founder,364
+747,JS Boulanger,CTO,365
+748,George Favvas,CEO,365
+749,Waseem Alim,CEO,366
+750,Zia Ashraf,Founder,366
+751,Tejas Viswanath,CTO,366
+752,Chris Field,,367
+753,"Darby Wong, CEO",CEO,367
+754,Corey Centen,CEO,368
+755,Sarah Smith,Founder,368
+756,Brian Bennett,CEO,369
+757,Fabio Fleitas,,370
+758,"Carlos Vega, CEO",CEO,370
+759,"Borna Safabakhsh, CEO",CEO,371
+760,"Andy Moon, CEO",CEO,372
+761,Aren Sandersen,Founder,373
+762,Tony Lewis,,374
+763,"Steve Albarran, CEO",CEO,374
+764,Elton Chan,Director,375
+765,Jackie Kong,Founder,375
+766,Matt Li,Director,375
+767,Tim Mak,Founder,375
+768,"Chris Molozian, CEO",CEO,376
+769,"Mo Firouz, COO",COO,376
+770,"Andrei Mihu, CTO",CTO,376
+771,Natasha Baker,CEO,377
+772,Scott Montgomerie,Founder,378
+773,David Nedohin,President,378
+774,Neil Chudleigh,CTO,379
+775,Bryn Jones,Founder,379
+776,Jonathan Mendes,Designer,379
+777,Luke Swanek,Founder,379
+778,Jonathan Friedman,CEO,380
+779,Ashley Wong,CEO,381
+780,"Brett Hagler, CEO",CEO,382
+781,Alexandria Lafci,,382
+782,Matthew Marshall,,382
+783,"Porter Braswell, CEO",CEO,383
+784,"Ryan Williams, President",President,383
+785,Saran Chari,Founder,384
+786,Joe Greenstein,Zookeeper's Assistant,384
+787,Semira Rahemtulla,Founder,384
+788,Rehman Merali,,385
+789,Jordan Brown,CEO,386
+790,Eric Kreutzer,Founder,386
+791,"Guillaume Luccisano, CTO",CTO,387
+792,"Ammon Bartram, CEO",CEO,387
+793,Brett Gibson,,388
+794,Garry Tan,,388
+795,"Jose M. Mejia Oneto, CEO",CEO,389
+796,Neema Moraveji,Chief Scientist,390
+797,Ben Yule,CTO,390
+798,Jayant Kulkarni,CEO,391
+799,Adam Regelmann,COO,391
+800,Eugenia Kuyda,CEO,392
+801,"Iba Masood, CEO",CEO,393
+802,"Syed Ahmed, CTO",CTO,393
+803,Kemar Newell,CEO,394
+804,Sebastian Punyaratabandhu Bhakdi,,395
+805,Prapat Suriyaphol,,395
+806,Darwin Lo,Founder,396
+807,"Nick Damiano, CEO",CEO,398
+808,"Shreya Mehta, CTO",CTO,398
+809,"Mark Datta, CEO",CEO,399
+810,Loren Baxter,,400
+811,"Arthur Chang, CEO",CEO,400
+812,Andrew Ng,,400
+813,Joe Pestro,,400
+814,Alfonzo Brooks,CFLO,401
+815,Frederick Hutson,CEO,401
+816,Yan Ma,The Science Guy,402
+817,Neil Mathew,CEO,402
+818,Prasenjit Mukherjee,Founder,402
+819,Aleem Mawani,Founder,403
+820,"Rick Harrison, CTO",CTO,404
+821,"David Hua, CEO",CEO,404
+822,Scott A Garman,,404
+823,"Harrison Lee, Designer, Developer",Developer,404
+824,"Josh Hubball, CEO",CEO,405
+825,Damian Sowers,,405
+826,Liz Clarke,CTO,406
+827,Derek Greenfield,CEO,406
+828,Noah Helman,CSO,406
+829,Allan Shin,CPO,407
+830,Kevin Shin,Founder,407
+831,Ayse Akcura,CEO,408
+832,Tolga Akçura,Founder,408
+833,Sandip Trivedi,Founder,409
+834,William Baron,CEO,410
+835,Mark Salpeter,CTO,410
+836,Tom Harari,CEO,411
+837,"Angel Alonso Say, CEO",CEO,412
+838,Russell Varriale,,412
+839,Ben Herila,CTO,413
+840,Jeffrey Shaw,CEO,413
+841,Bruno Didier,CEO,414
+842,"Andres Felipe Diaz, CEO",CEO,415
+843,Carlos Saavedra,,415
+844,Roy Law,Founder,416
+845,Ming Lo,CTO,416
+846,Jon Yip,Founder,416
+847,"Wen Sang, CEO",CEO,417
+848,"Maokai Lin, CTO",CTO,417
+849,Kiah J. Williams,Founder,418
+850,Adam Kircher,Founder,418
+851,George Wang,Director,418
+852,Mike McNeil,CEO,419
+853,Beth Kolko,CEO,420
+854,Gregory Koberger,Founder,421
+855,Ritesh Patel,Founder,422
+856,Daniel Kobran,Founder,423
+857,Dillon Thompson Erb,CEO,423
+858,Nick Carson,CEO,424
+859,"Neil Thanedar, CEO",CEO,425
+860,"Rafael Ferreira, CMO",CMO,425
+861,"Helton Souza, CTO",CTO,425
+862,"Andrew McCalister, CEO",CEO,426
+863,"Sean Watters, CTO",CTO,426
+864,Vladimir Novosselov,Special Projects,427
+865,Mark Prokoudine,Founder,427
+866,Edwin Broni-Mensah,The Water Guy,428
+867,"Mike Duncan, CEO",CEO,429
+868,Dan Burton,,430
+869,"Tiffani Ashley Bell, Executive Director",Executive Director,431
+870,Pia Mancini,Founder,432
+871,Santiago Siri,President,432
+872,"George Deglin, CEO",CEO,433
+873,"Long Vo, COO",COO,433
+874,Jonah Greenberger,,434
+875,Mike Chen,CEO,435
+876,Benjamin Godlove,CTO,435
+877,Aaron Kemmer,Founder,435
+878,David Merriman,Founder,435
+879,Nic Novak,Founder,435
+880,Michael Rubin,CFO,435
+881,Jared Goodner,Founder,436
+882,Hugh Gordon,Founder,436
+883,Prashant Samant,Founder,436
+884,Willis Wee,CEO,437
+885,Paul Duan,President,438
+886,Caroline Cochran,,439
+887,"Jacob DeWitte, CEO",CEO,439
+888,Susan Johnson,CEO,440
+889,Maksim Izmaylov,Founder,441
+890,Jakub Vysoký,Founder,441
+891,"Tom Shapland, CEO",CEO,442
+892,Patrick Hannigan,CTO,443
+893,Ian Roberts,Founder,443
+894,Tim Ogilvie,Founder,444
+895,"Christopher Farm, CEO",CEO,445
+896,"Amir Manji, Head Barista",Head Barista,445
+897,Thomas Cottin,CTO,446
+898,Aboud Jardaneh,Founder,446
+899,Hamza Ouazzani Chahdi,Founder,446
+900,Christian Kletzl,Founder,447
+901,Stephan Kletzl,Founder,447
+902,Khanjan Desai,Founder,448
+903,Chong Shen,Founder,448
+904,"Zack Liscio, CEO",CEO,449
+905,Patrick Costello,,449
+906,Miles Penn,CEO,450
+907,Charles Desouza,CTO,451
+908,Brian Stewart,CEO,451
+909,"Juan Benet, CEO, Engineer",Engineer,452
+910,Andrew Kurland,CTO,453
+911,Joe Marrapodi,CEO,453
+912,Hamed Saadat,Founder,454
+913,Murtaza Saadat,CEO,454
+914,Alan Guichard,CFO,455
+915,Aakash Patel,CTO,455
+916,Jugoslav Petkovic,CEO,456
+917,Matija Rijavec,"Magician, Taster & CTO",456
+918,Grisa Soba,Founder,456
+919,Aubone Tennant,Chief Growth Officer,457
+920,Johnny Chin,CEO,458
+921,Antoine de Chevigné,CTO,458
+922,Fahim Aziz,CEOM,459
+923,Sakib Sauro,CTO,459
+924,Frank Macreery,CEO,460
+925,Naveen Jain,CEO,461
+926,Reid Rubsamen,CEO,461
+927,Matt Harris,CEO,462
+928,Varun Arora,Founding Director,463
+929,"John Lai, CEO",CEO,464
+930,Nick Sherstyuk,Founder,465
+931,Tim Sherstyuk,CCO,465
+932,Ooshma Garg,CEO,466
+933,Max Kolysh,,467
+934,Doug Feigelson,,467
+935,Julia Kurnia,Director,468
+936,Jason Wang,,469
+937,Lona Alia,CEO,470
+938,Jamal Ashraf,CEO,471
+939,Yvonne Lin,CEO,472
+940,"David Mack, CTO",CTO,473
+941,"Chris Finneral, CEO",CEO,473
+942,Abbas Mehdi,Founder,474
+943,Somaira Punjwani,Founder,474
+944,Louise Broni-Mensah,Founder,475
+945,Christopher Hesse,Founder,476
+946,Ryan Oldenburg,CEO,476
+947,Andre von Houck,Founder,476
+948,"Matevz Petek, CEO",CEO,477
+949,Jim Robeson,Founder,478
+950,Adam Saunders,CTO,478
+951,"Abeer Agrawal, CTO",CTO,479
+952,"Hugh Edmundson, Managing Partner",Managing Partner,479
+953,"Rey Faustino, CEO",CEO,480
+954,"Eric Lukoff, CTO",CTO,480
+955,Hyungseok (Dino) Ha,CEO,481
+956,Martin Stoyanov,Founder,482
+957,Teo Teodosiev,Founder,482
+958,"Andrew Norris, COO",COO,483
+959,"Cobi Druxerman, Chief of Staff",Chief of Staff,483
+960,"Aaron Glazer, CEO",CEO,483
+961,"Jonathan Norris, CTO",CTO,483
+962,"Nick Winter, CEO",CEO,485
+963,"Katy Ashe, Chief Design Officer",Chief Design Officer,486
+964,"Edith Elliott, CEO",CEO,486
+965,Reham Fagiri,CEO,487
+966,kalam dennis,Founder,487
+967,"Cecilia Corral, Vice President of Product",Vice President of Product,488
+968,"Vineet Singal, CEO",CEO,488
+969,Jared Houghton,Founder,489
+970,Brian Trautschold,COO,489
+971,Travis Truett,CEO,489
+972,Nicolas Michaelsen,Founder,490
+973,Henrik Zillmer,Founder,490
+974,"Nick Porter, CTO",CTO,491
+975,Claire McDonnell,COO,492
+976,Kai Stinchcombe,CEO,492
+977,Preston Silverman,CEO,493
+978,Tobiasz Dankiewicz,Founder,494
+979,Michal Martyniak,Founder,494
+980,Adam Hooper,CEO,495
+981,Andy Norborg,CTO,495
+982,Chris Castiglione,,496
+983,Tobias Eichenwald,CEO,497
+984,Brett Northart,Founder,498
+985,Rakesh Tondon,CEO,498
+986,Jake Heller,CEO,499
+987,"Amir Elaguizy, CEO",CEO,500
+988,Alex Morse,,500
+989,"Lukasz Kostka, CTO",CTO,501
+990,"Jakub Krzych, CEO",CEO,501
+991,Garrett Beck,,502
+992,Brandon Malatest,COO,503
+993,Victor Wollesen,Founder,503
+994,Glen Moriarty,Founder,504
+995,"Chase Adam, CEO",CEO,505
+996,Jesse Cooke,,505
+997,"Grace Garey, Head of Operations",Head of Operations,505
+998,Walker Williams,CEO,506
+999,"Taro Fukuyama, CEO",CEO,507
+1000,"Sunny Tsang, Chief Designer",Chief Designer,507
+1001,Michelle Crosby,CEO,508
+1002,"Jared Heyman, Executive Chairman",Executive Chairman,509
+1003,Vivek Shah,Founder,510
+1004,Andrew Seddon,CEO,511
+1005,Denny Luan,,512
+1006,Cindy Wu,,512
+1007,Spencer Hewett,CEO,513
+1008,Fei Deyle,CEO,514
+1009,Teng Bao,CPO,515
+1010,Dafeng Guo,CTO,515
+1011,David Haisha Chen,CEO,515
+1012,Christian Romming,CEO,516
+1013,Na'ama Moran,CEO,517
+1014,"Nikhil Nirmel, CEO",CEO,518
+1015,Nitesh Goel,CEO,519
+1016,David Petersen,CEO,520
+1017,Jiyan Wei,Founder,520
+1018,Lior Abraham,Founder,521
+1019,Bobby Johnson,CTO,521
+1020,Humberto Evans,Software Engineer,522
+1021,Mike Robbins,Founder,522
+1022,Chris Chan,Founder,523
+1023,Derek Chan,Head of Engineer,523
+1024,Ray Chan,CEO,523
+1025,Marco Fung,Founder,523
+1026,Brian Yu,Founder,523
+1027,Kieran O'Neill,CEO,525
+1028,Ben Phillips,CTO,525
+1029,Venky B,,526
+1030,Michael Ricordeau,,526
+1031,David Cann,CEO,527
+1032,Marc DeVidts,Founder,527
+1033,Jonathan Tang,CEO/President,528
+1034,Todd Sullivan,CEO,529
+1035,Maxwell Salzberg,Founder,530
+1036,Rosanna Yau,Founder,530
+1037,Samuel Clay,,531
+1038,Rikin Shah,CEO,532
+1039,Chris Kelly,CEO,533
+1040,Matthew Huebert,Founder,534
+1041,Katelyn Gleason,CEO,536
+1042,"Alex Mittal, CEO",CEO,537
+1043,"Boris Silver, President",President,537
+1044,"Dan Sugarman, CEO",CEO,539
+1045,"George Kalogeropoulos, CEO",CEO,540
+1046,Ning Liang,,540
+1047,Jay Komarneni,CEO,541
+1048,Irving Lin,Team Member,541
+1049,Mandar Agte,CEO,542
+1050,"Russell Smith, CTO",CTO,543
+1051,"Fred Stevens-Smith, CEO",CEO,543
+1052,Tuyen Truong,CEO,544
+1053,Shashank Pandit,Founder,545
+1054,Jamie Cameron,Founder,546
+1055,Joe Cooper,Founder,546
+1056,John Marks,COO,547
+1057,Matt Maroon,Owner,547
+1058,Justin Cannon,Founder,548
+1059,Sascha Kuzins,Founder,550
+1060,Patrick Swieskowski,Founder,550
+1061,Brian Fioca,,551
+1062,"Tony Wright, (Product & Growth)",(Product & Growth),551
+1063,"Jeff Vyduna, CEO",CEO,552
+1064,"Brad Gessler, CTO",CTO,552
+1065,Ilia Baranov,,553
+1066,Stefan Seltz-Axmacher,,553
+1067,Jesse Beller,Founder,554
+1068,Sola Ogunsakin,Founder,554
+1069,Montana Scher,,555
+1070,James Thompson,,555
+1071,Hansel Hansel,,556
+1072,Steven Walentino,,556
+1073,Nicolas Bayerque,,557
+1074,Pablo Orlando,,557
+1075,Jack Saracco,,557
+1076,Mary Saracco,,557
+1077,Etienne DEGUINE,,558
+1078,Chris Navrides,,558
+1079,Ricky Barrett,,559
+1080,Ananya Zutshi,,559
+1081,Ijeoma Akwiwu,,560
+1082,Nkiru Amadi-Emina,,560
+1083,David Cox,,561
+1084,Brycen Wershing,,561
+1085,Gabriel B.,,562
+1086,Max Cho,,562
+1087,Philip Eller,,563
+1088,Mathias Nestler,,563
+1089,Zawad Chowdhury,,564
+1090,Faisal Ilaiwi,,564
+1091,Jahangir Mohammed,,565
+1092,Bharath Kumar Reddy,,565
+1093,ZJ Lin,,566
+1094,Sanjay Mandava,,566
+1095,Jonathan Richards,,566
+1096,Mikael Nida,,567
+1097,Cameron Duncan,,568
+1098,Nihar Parikh,,568
+1099,Axle Labs,,568
+1100,Daniel Carmona,,569
+1101,Miquel Llobet,,569
+1102,Stephanie Grayson,,570
+1103,Leia de Guzman,,570
+1104,Bryan He,,571
+1105,David Ouyang,,571
+1106,Berkay Adlim,,572
+1107,Kelsey Pedersen,Founder,573
+1108,Michele Van Ruiten,Founder,573
+1109,Paras Rajput,,574
+1110,Vedant Kumar,,574
+1111,Kimberly McManus,,575
+1112,Sneh Patel,,575
+1113,Jose Palacios,,576
+1114,Christophe Robilliard,,576
+1115,Joel Darin,,577
+1116,Robert Keane III,,577
+1117,James Bowers,,578
+1118,Matt Williamson,,578
+1119,Oriol Hernandez i Fajula,Founder,579
+1120,Marius Montmany,Founder,579
+1121,Rajat Jaiswal,,580
+1122,Raghav Malik,,580
+1123,Pradhith Konduri,,581
+1124,Vidhi Vakharia,,581
+1125,Jocelyn Kang,,582
+1126,Caroline Zhang,,582
+1127,Alex Chiou,,583
+1128,Rahul Pandey,,583
+1129,Edgar Cabrera,,584
+1130,Andres Paez,,584
+1131,Pranov Duggasani,,585
+1132,Zoe Holderness,,585
+1133,Emmanuel Rex Rodriguez,,586
+1134,Joseph Tan,,586
+1135,Henry Yeh,,586
+1136,Chun Jiang,,587
+1137,Ben Kramer,,587
+1138,Aymar Dumoulin,,588
+1139,Jeremy Gozlan,,588
+1140,Louis de Jenlis,,588
+1141,Abhi Patel,,589
+1142,Adi Patel,,589
+1143,Alison Liddy,,590
+1144,Barry McDermott,,590
+1145,Adit Patel,,591
+1146,Maharshi Patel,,591
+1147,Dimitris Nikolaou,,592
+1148,Youssef Rizk,,592
+1149,Kshitij Jain,,593
+1150,Sanskar Jain,,593
+1151,Hemant Phalak,,593
+1152,Adil Bouhdadi,,594
+1153,Harry Cheslaw,,594
+1154,Bryan Onel,,595
+1155,Ora Onel,,595
+1156,Ch Haziq Ahmed,,596
+1157,Hammad Bawany,,596
+1158,Mohammad Ahsan Kidwai,,596
+1159,Kassim Shroff,,596
+1160,Sultan Alkhayal,,597
+1161,Yasser Alshurihi,,597
+1162,Carly Allen,,598
+1163,Tara Raffi,,598
+1164,Nathalie Capati,,599
+1165,T. Dalton Combs,,599
+1166,Matt Mayberry,,599
+1167,Abdullah Alkharashi,,600
+1168,Ammar Alkhouli,,600
+1169,Motasim Zawawi,,600
+1170,Ted Chai,,601
+1171,Dylan Feng,,601
+1172,Marshall Johnston,Founder,602
+1173,Alan Nowogrodski,Founder,602
+1174,Alexander Grant,,603
+1175,Alexander Maher,,603
+1176,Brady Ochse,,603
+1177,Nicholas Yarmesch,,603
+1178,Eric Ciarla,,604
+1179,Garrett Frohman,,604
+1180,Caleb Peffer,,604
+1181,Nicolas Silberstein Camara,,604
+1182,Noam Grebler Farras,,605
+1183,JP Montoya,,605
+1184,Paulo Albuquerque,,606
+1185,Patrick Mc Dougall Sterea,,606
+1186,Bianca Orsini,,606
+1187,Paul Adokiye Iruene,,607
+1188,Henry Nneji,,607
+1189,Alan Pham,,608
+1190,Vikranth Srivatsa,,608
+1191,Ivy Pham,,608
+1192,Milad Moh,Founder,609
+1193,Inaz Novin,Founder,609
+1194,Alberto Gimeno,,610
+1195,Carmelo Juanes,,610
+1196,Adrian Ramirez,,610
+1197,Alvaro Sosa,,611
+1198,Fernando Varela,,611
+1199,Tanmay Chaudhari,,612
+1200,Vivek Kumar,,612
+1201,Prashant Upadhyay,,612
+1202,Morẹ́nikẹ́ Ọláòṣebìkan,,613
+1203,Tim Ioannidis,,614
+1204,Nikos Legbelos,,614
+1205,Antonis Mitropoulos,,614
+1206,Phelix Juma,,615
+1207,Sidney Rema,,615
+1208,Jonathan Aeschlimann,,616
+1209,Lourenço Maciel,,616
+1210,Pedro Nascimento,,616
+1211,Christopher Chae,,617
+1212,Sangyong Jung,,617
+1213,Arthur (Hyun June) Kim,,617
+1214,Jace Kendrick,,618
+1215,Chandler Rogers,,618
+1216,Nicholas Van Slooten,,618
+1217,Abdallah AbuHashem,,619
+1218,Amer Baroudi,,619
+1219,Edward Yee,,619
+1220,Sunny Sun,Founder,620
+1221,Alex Wolf,Founder,620
+1222,Andrea Bonapersona,,621
+1223,Alexandre Casteau,,621
+1224,Jean-Joseph MARIANI,,621
+1225,Anurag Dixit,,622
+1226,Ramesh Konatham,,622
+1227,Anshul Mishra,,622
+1228,Chaitanya Sarda,Founder,623
+1229,Rushabh Shah,Founder,623
+1230,Tom Middleton,,624
+1231,Brain Xiang,,624
+1232,Itai Peri,,625
+1233,Idan Shahar,,625
+1234,Maciej Szcześnik,,626
+1235,Nathaniel Ventura,,626
+1236,Sunny Bhagavathula,,627
+1237,Nate Hamet,,627
+1238,David Lawrence,,627
+1239,Zach Meza,,627
+1240,Shaishav Parekh,,627
+1241,Matt Regan,,627
+1242,Tom Bachant,,628
+1243,Jake McCloskey,,628
+1244,Alexander Kuebel,,629
+1245,Niklas Higi,,629
+1246,Aike Hillbrands,,629
+1247,Fabian Rothfuß,,629
+1248,Segun Adeyemi,,630
+1249,GBEKELOLUWA OLUFOTEBI,,630
+1250,Olamide Sobowale,,630
+1251,Sagar Agarwal,,631
+1252,Gajendra Khatri,,631
+1253,Felipe Domínguez,,632
+1254,Sebastian Margozzini,,632
+1255,Ignacio Márquez,,632
+1256,Antonia San Martin,,632
+1257,Shaan Franchi,,633
+1258,Aviraj Singh,,633
+1259,Noe Branagan,,634
+1260,Nelson Munoz,,634
+1261,Luis Pellerano,,634
+1262,Kyle Hooten,,635
+1263,Austin McCoy,,635
+1264,Manvir Singh,,635
+1265,Saurabh Jain,,636
+1266,Aahan Sawhney,,636
+1267,Ian Eaves,,637
+1268,Dan Goodman,,638
+1269,Alex Pickett,,638
+1270,Hakim Khalafi,,639
+1271,Deepak Singla,,639
+1272,Colin Elsinga,,640
+1273,Dima Goncharov,,640
+1274,Fenn Bailey,CTO,641
+1275,Azim Barodawala,Founder,641
+1276,Tom Howard,Founder,641
+1277,Max Keenan,,642
+1278,Angela Liu,,642
+1279,James Liu,,642
+1280,"Daniel Gomari, CEO",CEO,643
+1281,Brent LaRue,,643
+1282,Cedric Foudjet,,644
+1283,Gwanygha’a Gana,,644
+1284,Femi Aluko,,645
+1285,Olumide Ojo,,645
+1286,Lanre Yusuf,,645
+1287,Sibesh Kar,,646
+1288,Shubham Mishra,,646
+1289,Etai Avrahami,,647
+1290,Tzachi Davidovich,,647
+1291,Jake Vacovec,,647
+1292,Daniel Putzer,,648
+1293,Philipp Weber,,648
+1294,Ryan Downing,,649
+1295,Bryan Houlton,,649
+1296,Egal Lazarev,,650
+1297,Sasha Medvedovsky,,650
+1298,Blesson Abraham,,651
+1299,Jay Patel,,651
+1300,Faza Fahleraz,,652
+1301,Gery Nugraha,,652
+1302,Albert Sahala Theodore,,652
+1303,Timothy Carambat,,653
+1304,Jorrel Sto Tomas,,653
+1305,Jamie Balsillie,,654
+1306,Wilson Ruotolo,,654
+1307,Shyam Maddali,,655
+1308,Vinodh Poyyapakkam,,655
+1309,Alexandre Roubaud,,656
+1310,Kabir Sethi,,656
+1311,Nikita Ermoshkin,,657
+1312,Brendan Quinn,,657
+1313,Abhinav Chugh,,658
+1314,Alagu M,,658
+1315,James Chen,,659
+1316,Jensen Kuo,,659
+1317,Evis Drenova,,660
+1318,Nick Zelei,,660
+1319,David Marquez,,661
+1320,Josh Supan,,661
+1321,Dan Burke,Founder,662
+1322,Akhil Reddy,Founder,662
+1323,Juan Alvarez,,663
+1324,Juanjo Ferrero,,663
+1325,Federico Garcia Dura,,663
+1326,Mariano Lisiotti,,663
+1327,Ignacio Santa Cruz,,663
+1328,Brendan Ardagh,,664
+1329,Luigi La Corte,,664
+1330,Matias Gath,,665
+1331,Agustin Iglesias,,665
+1332,Shardul Lavekar,,666
+1333,Parth Mudgal,,666
+1334,Artem Bugara,,667
+1335,Maksym Sugonyaka,,667
+1336,Janis Berneker,,668
+1337,David Eberle,,668
+1338,Nikhil Shah,,669
+1339,Apoorve Singhal,,669
+1340,Cayter Goh,,670
+1341,Thomas Jiang,,670
+1342,Jonathan Low,,670
+1343,Deema Adada,,671
+1344,Guillaume Lo Re,,671
+1345,Tal Auslander,,672
+1346,Moti Elkayam,,672
+1347,Daniel Haven,,672
+1348,Daniel Lenton,,673
+1349,Aldo Del Valle,,674
+1350,Ernie Ho,,675
+1351,John Lin,,675
+1352,Arvind Ramesh,,676
+1353,Raimie Tang,,676
+1354,Anton Pluschke,,677
+1355,Marilena Schmich,,677
+1356,Ed Adjei,,678
+1357,Eric Adjei,,678
+1358,Gladys Adjei,,678
+1359,Ravi Bakhai,Founder,679
+1360,Narahari Bharadwaj,Founder,679
+1361,Elliot DeNolf,,680
+1362,James Mikrut,,680
+1363,Dan Ribbens,,680
+1364,Vicki Mo,,681
+1365,Ruby Yu,,681
+1366,Daniela Bahamon Arango,,682
+1367,Mika Eddy,,682
+1368,Orlando Li,,682
+1369,Michael Royzen,,683
+1370,Justin Wei,,683
+1371,Benjamin Alva,,684
+1372,Jesse Evans,,684
+1373,Eric Herrera,,684
+1374,James Hu,,685
+1375,Eldrick Millares,,685
+1376,Dane Cook,,686
+1377,Jad Rahbany,,686
+1378,Matthew Rybak,,686
+1379,Asaf Amit,,687
+1380,Yaniv Knoll,,687
+1381,Hassan Lantry,,688
+1382,Sami El Bouari,,688
+1383,Ishan Gupta,,689
+1384,David Paffenholz,,689
+1385,Savraj Singh,Founder,690
+1386,Eudelio Garza,,691
+1387,Javier Roberts,,691
+1388,Ricardo Villarreal Chapa,,691
+1389,Miha Mlakar,,692
+1390,Mourad Mourafiq,,692
+1391,Naimisha Rao,,693
+1392,Dilip Jain,,693
+1393,Manthan Shah,,693
+1394,Jakub Cichon,,694
+1395,Bruno Jacob,,694
+1396,Dylan Mikus,,694
+1397,Ben Sadeghi,,694
+1398,Ruben Fiszel,,695
+1399,Mohammad AbuAboud,Founder,696
+1400,Ashraf Samhouri,Founder,696
+1401,Graham Doig,,697
+1402,William Sutton,,697
+1403,Priyansh Srivastava,,698
+1404,Sriyansh Srivastava,,698
+1405,Julian Rowlands,,699
+1406,"Ashwin Balamohan, CTO",CTO,699
+1407,Sarup Banskota,,700
+1408,Paul Kuruvilla,,700
+1409,Solal Afota,,701
+1410,Nathaniel Masfen-Yan,,701
+1411,Dhruv Mangtani,,701
+1412,Joseph Nuriel,Founder,702
+1413,Guy Shahar,Founder,702
+1414,Arjun Bisen,,703
+1415,Tad Mielnicki,,703
+1416,Zara Perumal,,703
+1417,Tunde Adewole,,704
+1418,Festus Owumi,,704
+1419,Myra Arshad,,705
+1420,Avneet Ghotra,,705
+1421,Hannah Olson,,706
+1422,Kai Keane,,706
+1423,Beau Allison,Founder,707
+1424,Philip Kelvin,Founder,707
+1425,Fiyi Adebekun,,708
+1426,Jared Boisvert,,708
+1427,Prosser Cathey,,708
+1428,Hudson Hooper,,708
+1429,Cooper Jones,,708
+1430,Dustin Lange,,709
+1431,Tammo Rukat,,709
+1432,Leo Chanea,,710
+1433,Gil Peretz,,710
+1434,Guy Ziv,,710
+1435,Jacob Fortinsky,,711
+1436,Kelechi Ukah,,711
+1437,Kadir Samed Karagoz,,712
+1438,Griffin Wheeler,,712
+1439,Okky Pratama,,713
+1440,Ans Syuhada,,713
+1441,John Goertz,,714
+1442,Celestin de Wergifosse,,714
+1443,Etienne Bernard,,715
+1444,Samuel Bernard,,715
+1445,Nitzan Gelbard,Founder,716
+1446,Noam Izhaki,Founder,716
+1447,Alon Peretz,Founder,716
+1448,Deepanshu .,,717
+1449,Smit Patoliya,,717
+1450,Mikey Murphy,,718
+1451,Shane Murphy,,718
+1452,Max Lu,,719
+1453,Himanshu Minocha,,720
+1454,Rohan Minocha,,720
+1455,Tarun Prasad,,721
+1456,Kabir Nagral,,721
+1457,Deepit Patil,,721
+1458,Ishwar Gogineni,,722
+1459,Parth Shah,,722
+1460,Sidharth Rao,,722
+1461,Matthew Iommi,,723
+1462,Justin Rath,,723
+1463,Andrew Peterson,,724
+1464,Jose Isaac Robledo,,724
+1465,Hetal Shah,Founder,725
+1466,Rakesh Tondon,Founder,725
+1467,charlie bowman,Founder,725
+1468,Maxwell Sherman,,726
+1469,Adam Yaari,,726
+1470,Daniel Akle Carranza,,727
+1471,Fran Guzman,,727
+1472,Antonio Longoria,,727
+1473,Matt Sun,,728
+1474,Daniel Wasserlauf,,728
+1475,Bilal Dahlab,,729
+1476,Kuassi Jimmy Kumako,,729
+1477,Shams Radjabaly,,729
+1478,Luke Singham,,730
+1479,Matt Sutton,,730
+1480,Joao Victor Aguiar,Founder,731
+1481,Vitor Gomes Miranda,Founder,731
+1482,Rodrigo Marino,Founder,731
+1483,Kushagra Manglik,,732
+1484,Srinivas Sarkar,,732
+1485,Matt Brown,,733
+1486,Vasilica Coscotin,,733
+1487,Jonty Knox,,733
+1488,Simar Kohli,,734
+1489,Samik Shrotriya,,734
+1490,Danny Hakimian,Founder,735
+1491,Max Morlocke,Founder,735
+1492,Elad Fouks,,736
+1493,Shahaf Gonen,,736
+1494,Michael Gygli,,737
+1495,Nikolay Kobyshev,,737
+1496,Karim Saleh,,737
+1497,Clement Bruneau,,738
+1498,Loic Veillard,,738
+1499,Salem Abu-Hammour,,739
+1500,Youssef Said,,739
+1501,Faris Yaghmour,,739
+1502,Logan Frederick,,740
+1503,Zheng Hao Tan,,740
+1504,Ignacio Ampuero,,741
+1505,Pauline Roteta,,741
+1506,Julie Scotland,,741
+1507,Brendan Ashworth,,742
+1508,Michael Egan,,742
+1509,Nick Browne,,743
+1510,Edward Clayton,,743
+1511,Yo Shibata,,744
+1512,Misato Takahashi,,744
+1513,Neo Cho,Founder,745
+1514,Alex Reyes,Founder,745
+1515,Aaron Kahane,,746
+1516,Drew Schneider,,746
+1517,Salomon Serfati,,746
+1518,Justin Clark,,747
+1519,Dillon Martin,,747
+1520,Nicholas McCormick,,747
+1521,Zach McCormick,,747
+1522,Hazim Jumali,,748
+1523,John Rising,,748
+1524,Henson Orser,,749
+1525,Max Ponte,,749
+1526,Thomas Moore,,750
+1527,Ted Power,,750
+1528,Ashish Agarwal,,751
+1529,Pratik Mundra,,751
+1530,Gaurav Aggarwal,,752
+1531,Anuja Verma,,752
+1532,Allison Bellows,,753
+1533,Agni Bhattacharya,,753
+1534,Rohan Doshi,,754
+1535,Prathik Muppidi,,754
+1536,Neil Assur,,755
+1537,Johan Kers,,755
+1538,Ross Geiger,,756
+1539,Richard Lee,,756
+1540,David Winer,,756
+1541,Rahul Sonwalkar,,757
+1542,Tanuj Tiwari,,757
+1543,Andrew Duberstein,,758
+1544,Dayton Thorpe,,758
+1545,Utkarsh Tandon,Founder,759
+1546,Ryan Endacott,,760
+1547,Drew Wetherington,,760
+1548,Emmanuel Turlay,,761
+1549,Amey Chaugule,,762
+1550,Matt Green,,762
+1551,Charles Bai,,763
+1552,James McWalter,,763
+1553,Eilam Levitov,,764
+1554,Eric Yen,,764
+1555,Amit Bar,,765
+1556,"Ehud Halberstam, CEO",CEO,765
+1557,David Abusaid,,766
+1558,George Marvin,,766
+1559,Warren Lee,,767
+1560,Michael Shi,,767
+1561,Joe Averbukh,,768
+1562,Stepan Parunashvili,,768
+1563,Fabien Devos,,769
+1564,Naren Manoharan,,769
+1565,Ben Reilly,,770
+1566,Colin Snyder,,770
+1567,Hari Bhaskaran,,771
+1568,Arjun Soin,,772
+1569,Arnav Bathla,,773
+1570,Alex Duta,,774
+1571,Shamoil Soni,,774
+1572,Abhay Agarwal,,775
+1573,Sam Young,,775
+1574,Piero Nunez del Risco,,776
+1575,Luis Peña,,776
+1576,Nizar Batada,,777
+1577,Alex Kilkka,,778
+1578,Olly Wilson,,778
+1579,Rahul Agarwal,,779
+1580,Cody Ebberson,,779
+1581,Reshma Khilnani,,779
+1582,Vansh Langer,,780
+1583,Julien Cottineau,,781
+1584,David Delbourgo,,781
+1585,Divij Goyal,,782
+1586,Indrajeet Roy,,782
+1587,Ankit Shrivastava,,782
+1588,Chris Hill,,783
+1589,Cory O'Daniel,,783
+1590,david williams,,783
+1591,Gaurav Bharaj,,784
+1592,Benjamin Colman,,784
+1593,Ali Shahriyari,,784
+1594,Piotr Godzinski,,785
+1595,Julian May,,785
+1596,Jose Tomas Lobo,,786
+1597,Sebastian Ortiz,,786
+1598,Juan Camilo Poveda,,786
+1599,Salomon Zarruk Valencia,,786
+1600,David Mokos,,787
+1601,Adam Zvada,,787
+1602,Dekha Anggareska,,788
+1603,Gabriel Frans,,788
+1604,Christian Lie,,788
+1605,Brant Choate,,789
+1606,Widijastoro Nugroho,,790
+1607,Larry Ridwan,,790
+1608,Andre Septiano,,790
+1609,Jeffrey D. Epstein,,791
+1610,Will Stevenson,,791
+1611,Josh Howland,,792
+1612,Trevor McKendrick,,792
+1613,Mario Gaw,,793
+1614,Kristian F H Sinaulan,,793
+1615,Jay Chia,,794
+1616,Sammy Sidhu,,794
+1617,Alex Conway,,795
+1618,Sascha Lang,,795
+1619,Shawn Drost,,796
+1620,Terence Vomocil,,796
+1621,Reinhart Hermanus,,797
+1622,Philip Moniaga,,797
+1623,Sebastian Yaphy,,797
+1624,Tobias Müller,,798
+1625,Yannick Müller,,798
+1626,Blanca Espinosa,,799
+1627,Jorge Moreno Sanchez Briseno,,799
+1628,Jorge Vizcayno,,799
+1629,Felipe Restrepo,,800
+1630,camilo ruiz,,800
+1631,Kapil Bakshi,,801
+1632,Peter Thomas,,801
+1633,Jose Alberto Gonzalez Rouille,,802
+1634,Mads Schmidt Petersen,,802
+1635,Yonathan Faber,,803
+1636,Renan Oliveira,,803
+1637,Gustavo Piedade,,803
+1638,Hao Zheng,,804
+1639,Florian Braeuer,,805
+1640,Marvin Musialek,,805
+1641,Phillip Gulley,,806
+1642,Matthew Haber,,806
+1643,Ian Rust,,807
+1644,Rahul Anand,,808
+1645,Rob McEwan,,808
+1646,Gesa Biermann,,809
+1647,Florian Fincke,,809
+1648,Jonas Kerber,,809
+1649,Valentin Chomel,,810
+1650,Eloa Guillotin,,810
+1651,Hugo Tarlé,,810
+1652,Sean Doherty,,811
+1653,Timothy Goltser,,811
+1654,Curtis Mason,,811
+1655,Beth Hoffman,,812
+1656,Greg Kufera,,813
+1657,Herman Phillips,,813
+1658,Roger Tran,,813
+1659,Mark Cyffka,,814
+1660,Sudip Mukhopadhyay,,814
+1661,Nidhi Jain,,815
+1662,Prasanna Naik,,815
+1663,Insa Mohr,,816
+1664,Jochen Mueller,,816
+1665,Sean Ang,,817
+1666,Geoffrey See,,817
+1667,Van Tran,,817
+1668,Roshni Aslam,Founder,818
+1669,Mohammed Roshan,Founder,818
+1670,Philip Brinkmann,,819
+1671,Felix Steinbrenner,,819
+1672,Fabian Warmdt,,819
+1673,Andy Sudarman,,820
+1674,Jason Gillham,,821
+1675,Renee Grogan,,821
+1676,Oliver Gunasekara,,821
+1677,Tim Hyer,,822
+1678,Nicholas Meyers,,822
+1679,Dirk Jan van Veen,,823
+1680,Walter Pintor,,823
+1681,Anh-Tuan Bui,,824
+1682,Alexander Kwan,,824
+1683,Yaniv Bernstein,,825
+1684,George Oliver,,825
+1685,Nick Ramsay,,825
+1686,Pantha Roy,,825
+1687,Kushal Pillay,,826
+1688,Ivo Verhaegh,,826
+1689,Felipe Abello,,827
+1690,Angela Castillo,,827
+1691,Ngoc Nguyen,,828
+1692,Quan Nguyen,,828
+1693,Eren Canarslan,,829
+1694,Jasmine Sungu,,829
+1695,Dillon Carns,,830
+1696,Alex Feiszli,,830
+1697,Shashank Khanna,,831
+1698,Rebecca Lee,,831
+1699,Charlotte McGinn,,831
+1700,Brian Bristol,,832
+1701,Kaben Clauson,,832
+1702,Janice Min,,833
+1703,Richard Rushfield,,833
+1704,Abdulhamid Haidar,,834
+1705,Rory McMeekin,,835
+1706,Christopher Mjelde,,835
+1707,Alan Chan,,836
+1708,Yeefun Lin,,836
+1709,Ethan Wu,,836
+1710,Naina Limbekar,Founder,837
+1711,Rahul Sharma,Founder,837
+1712,Kathryn Cross,,838
+1713,Kareem Kouddous,,839
+1714,Rob Morris,,839
+1715,MJ Kim,,840
+1716,Shyam Kalairajah,,841
+1717,Reinaldo Tendean,,841
+1718,Shylla Pramadhani,,841
+1719,Max Clarke,,842
+1720,Tommy Peeples,,842
+1721,Ranajay Sen,,842
+1722,Alexandra Amico,,843
+1723,Maca Baigorria,,843
+1724,Muhammad Shamoon Tariq,,844
+1725,Merwane Drai,,846
+1726,Duc Pham,,847
+1727,Tung Tran,,847
+1728,Aaron Tran,,848
+1729,Ross Gruber,,849
+1730,Greg Sirotek,,849
+1731,Don Engel,,850
+1732,Quyen Hua,,850
+1733,Ricky Nariani,,850
+1734,Bill Newhart,,850
+1735,Nicolas Benenzon,,851
+1736,Geronimo Maspero,,851
+1737,Kai (Jiabo) Feng,,852
+1738,Marc Allen,,853
+1739,Grace Sai,,853
+1740,Jennifer Curtin MD,,854
+1741,Ryan Kellogg,,854
+1742,Oren Friedman,,855
+1743,Alec Robins,,855
+1744,Bobby Pinckney,,856
+1745,Michelle Yin,,856
+1746,Toby Edward,,857
+1747,Alexandra Zwiener,,857
+1748,Sanket Agarwal,,858
+1749,Abhi Arora,,858
+1750,Siddhi Mittal,,859
+1751,Heinin Zhang,,859
+1752,Horacio Faudella,,860
+1753,Andrés González - Olaechea,,860
+1754,William Wong,,860
+1755,Eduardo Blancas,,861
+1756,Ido Michael,,861
+1757,Christy Johnson,,862
+1758,Ryan Johnson,,862
+1759,Lauren Sullivan,,862
+1760,Eduardo Amaya,,863
+1761,Debashish (Deb) Bhadra,,863
+1762,Gianfranco Gentille,,863
+1763,Michael Luo,,864
+1764,Shai Bruhis,,865
+1765,Daniel Camilleri,,865
+1766,"Tullie Murrell, CEO",CEO,865
+1767,Salman Allana,,866
+1768,Alex Sergeev,,867
+1769,Marat Zhanabekov,,867
+1770,Daniel Lewis,,868
+1771,Nick Rubin,,868
+1772,Murillo Freitas,,869
+1773,Guilherme Guerra,,869
+1774,Ythalo Silva,,869
+1775,Fábio Witt,,869
+1776,Omar Said López Tronco,,870
+1777,Marisol Sánchez,,870
+1778,Alejandro Flores-Hernandez,,871
+1779,Mauricio Martínez,,871
+1780,Chris Hsu,,872
+1781,Steve Troy,,872
+1782,Fai Nur,,873
+1783,Blossom Okonkwo,,873
+1784,Great Okonkwo,,873
+1785,Rafal Pielak,,874
+1786,Jen Wan,,874
+1787,Alexander Carlson,,875
+1788,Will Collier,,875
+1789,Charlie Durbin,,875
+1790,Will Kantaros,,875
+1791,Taylor Baldwin,,876
+1792,Paul Butler,,876
+1793,Oban MacTavish,,877
+1794,Cooper Hart,,877
+1795,Andrei Soroker,,878
+1796,Andrew Israel,,879
+1797,Gabriel Barreto,,880
+1798,John Burnham,,880
+1799,Samuel Burnham,,880
+1800,Emil Dalgård Rasmussen,,881
+1801,Kamil Ryszkowski,,881
+1802,Junaid Babatunde,,882
+1803,Moses Enenwali,,882
+1804,Yazin Alirhayim,,883
+1805,Gorka Aguirre,,884
+1806,Juan coll Soler,,884
+1807,Arosha Brouwer,,885
+1808,Lucy Howie,,885
+1809,Aamir Hudda,,886
+1810,Joseph Yeh,,886
+1811,Soumyajit Das,,887
+1812,SAMAY JAIN,,887
+1813,Zhixuan Lai,,888
+1814,Haoyu Zha,,888
+1815,Teddy Li,,889
+1816,Weeks Mensah,,889
+1817,Kwadwo Nyarko,,889
+1818,Danilo Cabello,,890
+1819,Jason Goldlist,,890
+1820,Pei Li,,890
+1821,Frank Poon,,890
+1822,Maxim Perumal,,891
+1823,Ulises Carrasco,,892
+1824,Mahmoud Parto,,892
+1825,Jovan Choongh,Founder,893
+1826,Karan Grover,Founder,893
+1827,Zachary Kirby,,894
+1828,Avery Yip,,894
+1829,Kuberan Marimuthu,,895
+1830,Brad Brenner,,896
+1831,Kevin Bunarjo,,896
+1832,Isaac Eaves,,896
+1833,Vinesh Arun,,897
+1834,Kunal Garg,,897
+1835,Ian Yanusko,,897
+1836,Justin Cannon,Founder,898
+1837,Miran Junaidi,,899
+1838,Sourav Sanyal,,899
+1839,Christian Hermawan,,900
+1840,Fajar Kuntoro,,900
+1841,Daniel van Leeuwen,,900
+1842,Hendry Chou,,900
+1843,Ben Best,,901
+1844,Catherine Denis,,901
+1845,Mina Shahid,,901
+1846,Jeremy Albinet,,902
+1847,Chafik Belhaoues,,902
+1848,Celilsemi Sam Erkiner,,903
+1849,Jeevika Makani,,903
+1850,Neil Chen,,904
+1851,Nish Ithayakumar,,904
+1852,LIUSHA HUANG,,904
+1853,Mason Chilmonczyk,,905
+1854,Ingrid van Welie,,906
+1855,Maria Doliashvili,,907
+1856,Ana Robakidze,,907
+1857,Nelson Jones,,908
+1858,Saaras Mehan,,908
+1859,Omar Shams,,909
+1860,Sebastian Arce,,910
+1861,Ruben Cordoba,,910
+1862,Vladimir Guzman,,910
+1863,Alexander Björkenstam,,911
+1864,Edvin Fernqvist,,911
+1865,Benjamin Waye,,911
+1866,Yohan Elbase,,912
+1867,Kevin Ohana,,912
+1868,Craig Weiss,,913
+1869,Shourya Lala,,914
+1870,Manish Maryada,,914
+1871,Abhishek Jain,,915
+1872,Aditya Ketkar,,915
+1873,Jill Boyce,,916
+1874,Basel Salahieh,,916
+1875,Forrest Briggs,,917
+1876,Tunde Akinnuwa,Founder,918
+1877,Emeka Okwuagwu,Founder,918
+1878,Yele Oyekola,Founder,918
+1879,Manish Reddy,,919
+1880,Sarthak Agrawal,,919
+1881,CHUNG WONG,,920
+1882,Tin Wong,,920
+1883,Lee C. Lin,Founder,921
+1884,Lawrence Zhou,Founder,921
+1885,Jitin Bhasin,,922
+1886,Gaurav Luthra,,922
+1887,Anurag Varma,,922
+1888,Tim Lee,,923
+1889,Ben Wong,,923
+1890,Paulin Andurand,,924
+1891,Nicolas le Jeune,,924
+1892,Haakon Brunell,,925
+1893,Hans Arne Flåto,,925
+1894,Kristoffer Roil,,925
+1895,Brad Sickles,,926
+1896,Scott Sickles,,926
+1897,Youmin Kim,,927
+1898,Gabriel Archanjo,,928
+1899,Lorhan Caproni,,928
+1900,Hakeem Adeyemi Orewole,,929
+1901,Bashir Aminu,,929
+1902,John Anisere,,929
+1903,Phil Brennan,,930
+1904,Glen Wise,,930
+1905,Lione Alushula,,931
+1906,George Mbuthia,,931
+1907,Anthony Wagacha,,931
+1908,Joybroto Ganguly,,932
+1909,Sriramkumar Sundararaman,,932
+1910,Akshat Singhal,,933
+1911,Pratik Mohapatra,,933
+1912,Femi Iromini,,934
+1913,Adedapo Sobayo,,934
+1914,Perry Zheng,,935
+1915,Gary Lin,,936
+1916,Tomi Amao,Founder,937
+1917,Sam Keiru,Founder,937
+1918,Sinan Ismail,,938
+1919,Anna Joo Fee,,939
+1920,Alexandros Chaaraoui,,940
+1921,Oleg Kozynenko,,940
+1922,Jose Padilla,,940
+1923,Jose Luis Perez,,940
+1924,Pedro Trujillano,,940
+1925,JD Dance,,941
+1926,Joseph Sciarrino,,941
+1927,"Preeti Bhargava, PhD",PhD,942
+1928,Nitesh Shroff,,942
+1929,Neeraj Dasila,,943
+1930,Govinda Upadhyay,,943
+1931,Siamak Freydoonnejad,,944
+1932,Sina Zargaran,,944
+1933,David Hayes,,945
+1934,Manu Zope,,945
+1935,Joel Koshy,Founder,946
+1936,Rahul Mallapur,Founder,946
+1937,bently nixon,Founder,946
+1938,Phillip Aubrey,,947
+1939,Daniel Afolayan,,948
+1940,Kayode Disu,,949
+1941,Peter Ekunkoya,,949
+1942,Arcadiy Golubovich,,950
+1943,Robert Hinckley,,951
+1944,Austin Petersen,,951
+1945,Alexander Steffen,,951
+1946,Mark Fischel,,952
+1947,Harry Humfrey,,952
+1948,Will Taylor,,952
+1949,Eduardo Ortiz de Lanzagorta Gonzalez,,953
+1950,Primerose Katena,,954
+1951,Felix Manford,,954
+1952,Derrick Mungai,,954
+1953,Evans Darbo Boateng,,954
+1954,Emmanuel Aina,,955
+1955,Subomi Oluwalana,,955
+1956,Andrew Airelobhegbe,,956
+1957,Impact Airelobhegbe,,956
+1958,Praise Osagie,,956
+1959,Godstime Asine,,956
+1960,Tobi Ololade,,957
+1961,Ayomide Oso,,957
+1962,Kashif Saleem,,958
+1963,Ben Sand,,959
+1964,Joseph Femi Aghedo,,960
+1965,Idorenyin Obong,,960
+1966,Faouzi EL YAGOUBI,,961
+1967,Anji Ismail,,961
+1968,Farooq Tirmizi,,962
+1969,Uzair Mahmud,,962
+1970,Callum Ferguson,,963
+1971,Cameron Ferguson,,963
+1972,Daria Balatsky,,964
+1973,Alex Brown,,964
+1974,Caroline McKeon,,964
+1975,Phi Dang,,965
+1976,Jasmine Huynh,,965
+1977,Niyi Adegboye,,966
+1978,Lanre Ogungbe,,966
+1979,Ebuka Obi,,966
+1980,Tyler Carbone,,967
+1981,Amir Tarighat,,967
+1982,Joakim Bruchmann,,968
+1983,Oscar Vingtoft,,968
+1984,Aman Bhayana,,969
+1985,Arsalan Bashir,,970
+1986,Fabio Schmidberger,,971
+1987,Marcel Schmidberger,,971
+1988,Erik Ziegler,,971
+1989,Sachin Jain,,972
+1990,Sagar Soni,,972
+1991,Tamanjit Bindra,,973
+1992,Snehanshu Gandhi,,973
+1993,Gaurav Shrishrimal,,973
+1994,Robert Nyangate,,974
+1995,Alphas Sinja,,974
+1996,John Flash Dada,Founder,975
+1997,Henry Mascot,Founder,975
+1998,Amr Yussif,,976
+1999,Matthieu Capelle,,976
+2000,Sipra Laddha,Founder,977
+2001,Shama Rathi,Founder,977
+2002,Vamsee Koneru,,978
+2003,Tom Firth,,979
+2004,Aditya Padwal,,980
+2005,Jai Thirani,,980
+2006,Robert Baron,,981
+2007,James Jara,,981
+2008,Federico Patiño,,981
+2009,Minh Chung Hoang,,982
+2010,Wesley Zheng,,982
+2011,Erica Du,,983
+2012,Jennifer Liu,,983
+2013,John Jost,,984
+2014,Maxim Karpov,,984
+2015,Ricardo Wölker,Founder,985
+2016,Alexander von Boetticher,Founder,985
+2017,Umair Aslam,,986
+2018,Sameel Hayat,,986
+2019,Shoaib Khan,,986
+2020,Fawad Hussain,,986
+2021,Asher Adeniyi,,987
+2022,Kingsley Michael,,987
+2023,Efosa Uwoghiren,,987
+2024,Ezequiel Bucai,,988
+2025,Lucrecia Porta,,988
+2026,Rakesh Goyal,,989
+2027,Hernan Lopez Conde,,990
+2028,Santiago Pezzoni,,990
+2029,Juan Diego Galvez,,991
+2030,Federico Benavides,,991
+2031,Coco Zuloaga,,992
+2032,Aaron Neiderhiser,,992
+2033,Yinka Elujoba,,993
+2034,Eni Joshua,,993
+2035,Zack Field,,994
+2036,Rani Mavram,,994
+2037,Sandilya Miduthuri,,995
+2038,Chalam PVS,,995
+2039,Michael Do,,996
+2040,Phuoc Tran,,996
+2041,Kunal Popat,,997
+2042,Rachit Puri,,997
+2043,Udita Pal,,998
+2044,Ankit Parasher,,998
+2045,Roy Stillwell,,999
+2046,Malcolm-Wiley Floyd,,1000
+2047,Scott Fritz,,1000

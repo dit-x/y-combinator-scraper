@@ -1,0 +1,203 @@
+id,tag
+1,Active
+2,SaaS
+3,S22
+4,W22
+5,B2B
+6,Fintech
+7,Developer Tools
+8,Marketplace
+9,W15
+10,Artifical Intelligence
+11,Crypto / Web3
+12,S15
+13,Consumer
+14,Machine Learning
+15,E-commerce
+16,W16
+17,Climate
+18,W14
+19,Healthcare
+20,S14
+21,Payments
+22,W18
+23,API
+24,S12
+25,Acquired
+26,Logistics
+27,Analytics
+28,Data Engineering
+29,Enterprise
+30,W19
+31,Biotech
+32,Proptech
+33,Productivity
+34,Neobank
+35,Digital Health
+36,Consumer Health Services
+37,W13
+38,Education
+39,S19
+40,Hardware
+41,S18
+42,Health Tech
+43,S13
+44,HR Tech
+45,S17
+46,S16
+47,W12
+48,W17
+49,Gaming
+50,W20
+51,Public
+52,Supply Chain
+53,Open Source
+54,Real Estate
+55,Food Tech
+56,Security
+57,DeFi
+58,DevSecOps
+59,Hard Tech
+60,Investing
+61,NFT
+62,W21
+63,Insurance
+64,S20
+65,Robotics
+66,Delivery
+67,Medical Devices
+68,Banking as a Service
+69,Computer Vision
+70,Identity
+71,S11
+72,No-code
+73,Entertainment
+74,Social
+75,Mental Health Tech
+76,Human Resources
+77,Video
+78,Sales
+79,Construction
+80,Therapeutics
+81,Retail
+82,Creator Economy
+83,Recruiting
+84,Community
+85,Electric Vehicles
+86,Carbon Capture and Removal
+87,ClimateTech
+88,Health Insurance
+89,Virtual Reality
+90,Documents
+91,Telehealth
+92,Deep Learning
+93,Grocery
+94,NLP
+95,Design Tools
+96,IoT
+97,Compliance
+98,Energy
+99,Transportation
+100,Nonprofit
+101,S21
+102,Telemedicine
+103,S09
+104,FinOps
+105,Solar Power
+106,Subscriptions
+107,Energy Storage
+108,Remote Work
+109,Warehouse Management Tech
+110,Kubernetes
+111,W08
+112,Privacy
+113,eLearning
+114,Airplanes
+115,W11
+116,Robotic Process Automation
+117,Travel
+118,AIOps
+119,W07
+120,Messaging
+121,Crowdfunding
+122,Satellites
+123,Digital Freight Brokerage
+124,LegalTech
+125,Sports Tech
+126,Generative AI
+127,Collaboration
+128,S10
+129,Diagnostics
+130,AI-Enhanced Learning
+131,Legal Tech
+132,DAO
+133,Drug discovery
+134,Oncology
+135,Augmented Reality
+136,W09
+137,Media
+138,Synthetic Biology
+139,Gene Therapy
+140,GovTech
+141,Manufacturing
+142,Payroll
+143,Space Exploration
+144,Cashierless Checkout
+145,Next-gen Network Security
+146,Genomics
+147,Social Network
+148,IK12
+149,Agriculture
+150,Customer Success
+151,Housing
+152,Social Media
+153,Assistive Tech
+154,Sustainable Fashion
+155,S05
+156,Femtech
+157,Regtech
+158,Air Taxis
+159,Commercial Space Launch
+160,Hydrogen Energy
+161,Conversational Banking
+162,Bioplastic
+163,Fitness
+164,Fertility Tech
+165,Renewable Energy
+166,Cloud Gaming
+167,Cannabis
+168,Geographic Information System
+169,S06
+170,Legal
+171,S07
+172,Ghost Kitchens
+173,COVID-19
+174,Clean Meat
+175,Cultured Meat
+176,Auto Commerce
+177,Deepfake Detection
+178,W23
+179,Nanotechnology
+180,Autonomous Trucking
+181,AI-powered Drug Discovery
+182,Speech Recognition
+183,Quantum Computing
+184,Autonomous Delivery
+185,Autonomous Shipping
+186,3D Printing
+187,W10
+188,Smart Clothing
+189,Smart Locks
+190,Primary Care
+191,Food Service Robots & Machines
+192,Small Modular Reactors
+193,Cellular Agriculture
+194,Beauty
+195,Indoor Mapping
+196,S08
+197,Unmanned Vehicle
+198,Cryogenics
+199,Civic Tech
+200,Drones
+201,Fusion Energy
+202,Neurotechnology
