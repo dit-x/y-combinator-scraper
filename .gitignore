@@ -1,1 +1,6 @@
 .ipynb_*
+__pycache__/data_modelling.cpython-39.pyc
+.DS_Store
+dbt_ycombinator
+logs
+test.ipynb
