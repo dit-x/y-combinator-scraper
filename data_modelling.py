@@ -107,14 +107,14 @@ founder_df, founder_social_to_social = founder_and_social(all_df, socials_mapper
 tag_df, company_to_tag = get_tags_data(all_df)
 
 
-all_df = pd.read_csv('data/ycombinator_all.csv')
-company_df = pd.read_csv('data/company.csv')
-founder_df = pd.read_csv('data/founder.csv')
-social_df = pd.read_csv('data/socials.csv')
-tags_df = pd.read_csv('data/tags.csv')
-company_to_tag_df = pd.read_csv("data/company_to_tag.csv")
-founder_social_to_social_df = pd.read_csv("data/founder_social_to_social.csv")
-company_social_to_social = pd.read_csv("data/company_social_to_social.csv")
+all_df.to_csv('data/ycombinator_all.csv', index=False)
+company_df.to_csv('data/company.csv', index=False)
+founder_df.to_csv('data/founder.csv', index=False)
+social_df.to_csv('data/socials.csv', index=False)
+tag_df.to_csv('data/tags.csv', index=False)
+company_to_tag.to_csv("data/company_to_tag.csv", index=False)
+founder_social_to_social.to_csv("data/founder_social_to_social.csv", index=False)
+company_social_to_social.to_csv("data/company_social_to_social.csv", index=False)
 
 
 founder_sum = founder_df.groupby('company_id')['id'].count().sum()
@@ -131,6 +131,4 @@ if social_sum == all_df['no_company_socials'].sum():
     print('Total sum is', social_sum)
 else:
     print(all_df['no_company_socials'].sum())
-
-
 
